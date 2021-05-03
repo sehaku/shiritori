@@ -1,0 +1,4042 @@
+[
+  {
+    "id": 1,
+    "img": "1.png",
+    "wordType": "normal",
+    "word": "リンゴ",
+    "first": "り",
+    "last": "ご"
+  },
+  {
+    "id": 2,
+    "img": "1.png",
+    "wordType": "rev",
+    "word": "アップル",
+    "first": "あ",
+    "last": "る"
+  },
+  {
+    "id": 3,
+    "img": "1.png",
+    "wordType": "rev",
+    "word": "きんだんのかじつ",
+    "first": "き",
+    "last": "つ"
+  },
+  {
+    "id": 4,
+    "img": "4.png",
+    "wordType": "normal",
+    "word": "ゴリラ",
+    "first": "ご",
+    "last": "ら"
+  },
+  {
+    "id": 5,
+    "img": "4.png",
+    "wordType": "rev",
+    "word": "れいちょうるい",
+    "first": "れ",
+    "last": "い"
+  },
+  {
+    "id": 6,
+    "img": "4.png",
+    "wordType": "rev",
+    "word": "うほうほ",
+    "first": "う",
+    "last": "ほ"
+  },
+  {
+    "id": 7,
+    "img": "4.png",
+    "wordType": "princess",
+    "word": "マスター・ウキキー",
+    "first": "ま",
+    "last": "き"
+  },
+  {
+    "id": 8,
+    "img": "8.png",
+    "wordType": "normal",
+    "word": "ラッパ",
+    "first": "ら",
+    "last": "ぱ"
+  },
+  {
+    "id": 9,
+    "img": "8.png",
+    "wordType": "normal",
+    "word": "トランペット",
+    "first": "と",
+    "last": "と"
+  },
+  {
+    "id": 10,
+    "img": "8.png",
+    "wordType": "normal",
+    "word": "かんがっき",
+    "first": "か",
+    "last": "き"
+  },
+  {
+    "id": 11,
+    "img": "11.png",
+    "wordType": "normal",
+    "word": "パイナップル",
+    "first": "ぱ",
+    "last": "る"
+  },
+  {
+    "id": 12,
+    "img": "11.png",
+    "wordType": "rev",
+    "word": "アナナス",
+    "first": "あ",
+    "last": "す"
+  },
+  {
+    "id": 13,
+    "img": "13.png",
+    "wordType": "normal",
+    "word": "ルビー",
+    "first": "る",
+    "last": "び"
+  },
+  {
+    "id": 14,
+    "img": "13.png",
+    "wordType": "normal",
+    "word": "ほうせき",
+    "first": "ほ",
+    "last": "き"
+  },
+  {
+    "id": 15,
+    "img": "13.png",
+    "wordType": "rev",
+    "word": "ガーネット",
+    "first": "が",
+    "last": "と"
+  },
+  {
+    "id": 16,
+    "img": "13.png",
+    "wordType": "rev",
+    "word": "ジュエリー",
+    "first": "じ",
+    "last": "り"
+  },
+  {
+    "id": 17,
+    "img": "13.png",
+    "wordType": "princess",
+    "word": "アキノのブローチ",
+    "first": "あ",
+    "last": "ち"
+  },
+  {
+    "id": 18,
+    "img": "13.png",
+    "wordType": "princess",
+    "word": "こうきせきウィスタリア",
+    "first": "こ",
+    "last": "あ"
+  },
+  {
+    "id": 19,
+    "img": "19.png",
+    "wordType": "normal",
+    "word": "ビールっぽいもの",
+    "first": "び",
+    "last": "の"
+  },
+  {
+    "id": 20,
+    "img": "19.png",
+    "wordType": "normal",
+    "word": "ジョッキ",
+    "first": "じ",
+    "last": "き"
+  },
+  {
+    "id": 21,
+    "img": "19.png",
+    "wordType": "princess",
+    "word": "むぎしゅわ",
+    "first": "む",
+    "last": "わ"
+  },
+  {
+    "id": 22,
+    "img": "19.png",
+    "wordType": "princess",
+    "word": "エターナルジョッキ",
+    "first": "え",
+    "last": "き"
+  },
+  {
+    "id": 23,
+    "img": "23.png",
+    "wordType": "normal",
+    "word": "ゆみや",
+    "first": "ゆ",
+    "last": "や"
+  },
+  {
+    "id": 24,
+    "img": "23.png",
+    "wordType": "rev",
+    "word": "とびどうぐ",
+    "first": "と",
+    "last": "ぐ"
+  },
+  {
+    "id": 25,
+    "img": "23.png",
+    "wordType": "rev",
+    "word": "アロー",
+    "first": "あ",
+    "last": "ろ"
+  },
+  {
+    "id": 26,
+    "img": "23.png",
+    "wordType": "rev",
+    "word": "ボウ",
+    "first": "ぼ",
+    "last": "う"
+  },
+  {
+    "id": 27,
+    "img": "27.png",
+    "wordType": "normal",
+    "word": "おんぷ",
+    "first": "お",
+    "last": "ぷ"
+  },
+  {
+    "id": 28,
+    "img": "27.png",
+    "wordType": "normal",
+    "word": "リズム",
+    "first": "り",
+    "last": "む"
+  },
+  {
+    "id": 29,
+    "img": "27.png",
+    "wordType": "rev",
+    "word": "ミュージック",
+    "first": "み",
+    "last": "く"
+  },
+  {
+    "id": 30,
+    "img": "27.png",
+    "wordType": "rev",
+    "word": "うた",
+    "first": "う",
+    "last": "た"
+  },
+  {
+    "id": 31,
+    "img": "27.png",
+    "wordType": "rev",
+    "word": "ドレミ",
+    "first": "ど",
+    "last": "み"
+  },
+  {
+    "id": 32,
+    "img": "32.png",
+    "wordType": "normal",
+    "word": "えのぐ",
+    "first": "え",
+    "last": "ぐ"
+  },
+  {
+    "id": 33,
+    "img": "32.png",
+    "wordType": "rev",
+    "word": "チューブ",
+    "first": "ち",
+    "last": "ぶ"
+  },
+  {
+    "id": 34,
+    "img": "32.png",
+    "wordType": "rev",
+    "word": "ブルー",
+    "first": "ぶ",
+    "last": "る"
+  },
+  {
+    "id": 35,
+    "img": "32.png",
+    "wordType": "rev",
+    "word": "あおいえのぐ",
+    "first": "あ",
+    "last": "ぐ"
+  },
+  {
+    "id": 36,
+    "img": "36.png",
+    "wordType": "normal",
+    "word": "けん",
+    "first": "け",
+    "last": "ん"
+  },
+  {
+    "id": 37,
+    "img": "36.png",
+    "wordType": "normal",
+    "word": "ソード",
+    "first": "そ",
+    "last": "ど"
+  },
+  {
+    "id": 38,
+    "img": "36.png",
+    "wordType": "rev",
+    "word": "つるぎ",
+    "first": "つ",
+    "last": "ぎ"
+  },
+  {
+    "id": 39,
+    "img": "36.png",
+    "wordType": "rev",
+    "word": "はもの",
+    "first": "は",
+    "last": "の"
+  },
+  {
+    "id": 40,
+    "img": "36.png",
+    "wordType": "princess",
+    "word": "プリンセスソード",
+    "first": "ぷ",
+    "last": "ど"
+  },
+  {
+    "id": 41,
+    "img": "41.png",
+    "wordType": "normal",
+    "word": "めがね",
+    "first": "め",
+    "last": "ね"
+  },
+  {
+    "id": 42,
+    "img": "41.png",
+    "wordType": "rev",
+    "word": "レンズ",
+    "first": "れ",
+    "last": "ず"
+  },
+  {
+    "id": 43,
+    "img": "41.png",
+    "wordType": "rev",
+    "word": "ビンぞこめがね",
+    "first": "び",
+    "last": "ね"
+  },
+  {
+    "id": 44,
+    "img": "41.png",
+    "wordType": "rev",
+    "word": "ぐるぐるめがね",
+    "first": "ぐ",
+    "last": "ね"
+  },
+  {
+    "id": 45,
+    "img": "41.png",
+    "wordType": "princess",
+    "word": "カリンのめがね",
+    "first": "か",
+    "last": "ね"
+  },
+  {
+    "id": 46,
+    "img": "46.png",
+    "wordType": "normal",
+    "word": "むしめがね",
+    "first": "む",
+    "last": "ね"
+  },
+  {
+    "id": 47,
+    "img": "46.png",
+    "wordType": "normal",
+    "word": "レンズ",
+    "first": "れ",
+    "last": "ず"
+  },
+  {
+    "id": 48,
+    "img": "46.png",
+    "wordType": "normal",
+    "word": "ルーペ",
+    "first": "る",
+    "last": "ぺ"
+  },
+  {
+    "id": 49,
+    "img": "46.png",
+    "wordType": "rev",
+    "word": "ズーム",
+    "first": "ず",
+    "last": "む"
+  },
+  {
+    "id": 50,
+    "img": "46.png",
+    "wordType": "princess",
+    "word": "たんていのひっすアイテム",
+    "first": "た",
+    "last": "む"
+  },
+  {
+    "id": 51,
+    "img": "46.png",
+    "wordType": "princess",
+    "word": "ディテクティブルーペ",
+    "first": "で",
+    "last": "ぺ"
+  },
+  {
+    "id": 52,
+    "img": "52.png",
+    "wordType": "normal",
+    "word": "にく",
+    "first": "に",
+    "last": "く"
+  },
+  {
+    "id": 53,
+    "img": "52.png",
+    "wordType": "rev",
+    "word": "りょうり",
+    "first": "り",
+    "last": "り"
+  },
+  {
+    "id": 54,
+    "img": "52.png",
+    "wordType": "rev",
+    "word": "ミート",
+    "first": "み",
+    "last": "と"
+  },
+  {
+    "id": 55,
+    "img": "52.png",
+    "wordType": "rev",
+    "word": "ほねつきにく",
+    "first": "ほ",
+    "last": "く"
+  },
+  {
+    "id": 56,
+    "img": "52.png",
+    "wordType": "princess",
+    "word": "ドラゴンのにく",
+    "first": "ど",
+    "last": "く"
+  },
+  {
+    "id": 57,
+    "img": "57.png",
+    "wordType": "normal",
+    "word": "つき",
+    "first": "つ",
+    "last": "き"
+  },
+  {
+    "id": 58,
+    "img": "57.png",
+    "wordType": "normal",
+    "word": "まんげつ",
+    "first": "ま",
+    "last": "つ"
+  },
+  {
+    "id": 59,
+    "img": "57.png",
+    "wordType": "rev",
+    "word": "ムーン",
+    "first": "む",
+    "last": "ん"
+  },
+  {
+    "id": 60,
+    "img": "57.png",
+    "wordType": "rev",
+    "word": "ルナ",
+    "first": "る",
+    "last": "な"
+  },
+  {
+    "id": 61,
+    "img": "57.png",
+    "wordType": "princess",
+    "word": "めいげつ",
+    "first": "め",
+    "last": "つ"
+  },
+  {
+    "id": 62,
+    "img": "62.png",
+    "wordType": "normal",
+    "word": "こうもり",
+    "first": "こ",
+    "last": "り"
+  },
+  {
+    "id": 63,
+    "img": "62.png",
+    "wordType": "normal",
+    "word": "バット",
+    "first": "ば",
+    "last": "と"
+  },
+  {
+    "id": 64,
+    "img": "62.png",
+    "wordType": "rev",
+    "word": "きゅうけつき",
+    "first": "き",
+    "last": "き"
+  },
+  {
+    "id": 65,
+    "img": "62.png",
+    "wordType": "princess",
+    "word": "イリヤのけんぞく",
+    "first": "い",
+    "last": "く"
+  },
+  {
+    "id": 66,
+    "img": "66.png",
+    "wordType": "normal",
+    "word": "とり",
+    "first": "と",
+    "last": "り"
+  },
+  {
+    "id": 67,
+    "img": "66.png",
+    "wordType": "normal",
+    "word": "まもの",
+    "first": "ま",
+    "last": "の"
+  },
+  {
+    "id": 68,
+    "img": "66.png",
+    "wordType": "rev",
+    "word": "バード",
+    "first": "ば",
+    "last": "ど"
+  },
+  {
+    "id": 69,
+    "img": "66.png",
+    "wordType": "princess",
+    "word": "ジズ",
+    "first": "じ",
+    "last": "ず"
+  },
+  {
+    "id": 70,
+    "img": "70.png",
+    "wordType": "normal",
+    "word": "くつ",
+    "first": "く",
+    "last": "つ"
+  },
+  {
+    "id": 71,
+    "img": "70.png",
+    "wordType": "normal",
+    "word": "ズック",
+    "first": "ず",
+    "last": "く"
+  },
+  {
+    "id": 72,
+    "img": "70.png",
+    "wordType": "rev",
+    "word": "シューズ",
+    "first": "し",
+    "last": "ず"
+  },
+  {
+    "id": 73,
+    "img": "70.png",
+    "wordType": "rev",
+    "word": "かわぐつ",
+    "first": "か",
+    "last": "つ"
+  },
+  {
+    "id": 74,
+    "img": "70.png",
+    "wordType": "rev",
+    "word": "ブーツ",
+    "first": "ぶ",
+    "last": "つ"
+  },
+  {
+    "id": 75,
+    "img": "75.png",
+    "wordType": "normal",
+    "word": "ねこ",
+    "first": "ね",
+    "last": "こ"
+  },
+  {
+    "id": 76,
+    "img": "75.png",
+    "wordType": "normal",
+    "word": "キャット",
+    "first": "き",
+    "last": "と"
+  },
+  {
+    "id": 77,
+    "img": "75.png",
+    "wordType": "rev",
+    "word": "とらねこ",
+    "first": "と",
+    "last": "こ"
+  },
+  {
+    "id": 78,
+    "img": "75.png",
+    "wordType": "rev",
+    "word": "にゃんこ",
+    "first": "に",
+    "last": "こ"
+  },
+  {
+    "id": 79,
+    "img": "75.png",
+    "wordType": "princess",
+    "word": "タマキのおともだち",
+    "first": "た",
+    "last": "ち"
+  },
+  {
+    "id": 80,
+    "img": "80.png",
+    "wordType": "normal",
+    "word": "きんぎょ",
+    "first": "き",
+    "last": "よ"
+  },
+  {
+    "id": 81,
+    "img": "80.png",
+    "wordType": "normal",
+    "word": "おさかな",
+    "first": "お",
+    "last": "な"
+  },
+  {
+    "id": 82,
+    "img": "80.png",
+    "wordType": "normal",
+    "word": "さかな",
+    "first": "さ",
+    "last": "な"
+  },
+  {
+    "id": 83,
+    "img": "80.png",
+    "wordType": "rev",
+    "word": "らんちゅう",
+    "first": "ら",
+    "last": "う"
+  },
+  {
+    "id": 84,
+    "img": "84.png",
+    "wordType": "normal",
+    "word": "ねずみ",
+    "first": "ね",
+    "last": "み"
+  },
+  {
+    "id": 85,
+    "img": "84.png",
+    "wordType": "normal",
+    "word": "マウス",
+    "first": "ま",
+    "last": "す"
+  },
+  {
+    "id": 86,
+    "img": "84.png",
+    "wordType": "rev",
+    "word": "ラット",
+    "first": "ら",
+    "last": "と"
+  },
+  {
+    "id": 87,
+    "img": "84.png",
+    "wordType": "rev",
+    "word": "ちゅーちゅー",
+    "first": "ち",
+    "last": "ゆ"
+  },
+  {
+    "id": 88,
+    "img": "88.png",
+    "wordType": "normal",
+    "word": "たまご",
+    "first": "た",
+    "last": "ご"
+  },
+  {
+    "id": 89,
+    "img": "88.png",
+    "wordType": "rev",
+    "word": "エッグ",
+    "first": "え",
+    "last": "ぐ"
+  },
+  {
+    "id": 90,
+    "img": "88.png",
+    "wordType": "rev",
+    "word": "こども",
+    "first": "こ",
+    "last": "も"
+  },
+  {
+    "id": 91,
+    "img": "88.png",
+    "wordType": "rev",
+    "word": "とりのす",
+    "first": "と",
+    "last": "す"
+  },
+  {
+    "id": 92,
+    "img": "92.png",
+    "wordType": "normal",
+    "word": "ふね",
+    "first": "ふ",
+    "last": "ね"
+  },
+  {
+    "id": 93,
+    "img": "92.png",
+    "wordType": "rev",
+    "word": "クルージング",
+    "first": "く",
+    "last": "ぐ"
+  },
+  {
+    "id": 94,
+    "img": "92.png",
+    "wordType": "rev",
+    "word": "はんせん",
+    "first": "は",
+    "last": "ん"
+  },
+  {
+    "id": 95,
+    "img": "92.png",
+    "wordType": "rev",
+    "word": "シップ",
+    "first": "し",
+    "last": "ぷ"
+  },
+  {
+    "id": 96,
+    "img": "96.png",
+    "wordType": "normal",
+    "word": "ぎゅうにゅう",
+    "first": "ぎ",
+    "last": "う"
+  },
+  {
+    "id": 97,
+    "img": "96.png",
+    "wordType": "normal",
+    "word": "ミルク",
+    "first": "み",
+    "last": "く"
+  },
+  {
+    "id": 98,
+    "img": "96.png",
+    "wordType": "rev",
+    "word": "おちち",
+    "first": "お",
+    "last": "ち"
+  },
+  {
+    "id": 99,
+    "img": "96.png",
+    "wordType": "princess",
+    "word": "エリザベス",
+    "first": "え",
+    "last": "す"
+  },
+  {
+    "id": 100,
+    "img": "100.png",
+    "wordType": "normal",
+    "word": "チョコレート",
+    "first": "ち",
+    "last": "と"
+  },
+  {
+    "id": 101,
+    "img": "100.png",
+    "wordType": "normal",
+    "word": "おかし",
+    "first": "お",
+    "last": "し"
+  },
+  {
+    "id": 102,
+    "img": "100.png",
+    "wordType": "rev",
+    "word": "あまいもの",
+    "first": "あ",
+    "last": "の"
+  },
+  {
+    "id": 103,
+    "img": "100.png",
+    "wordType": "rev",
+    "word": "カカオ",
+    "first": "か",
+    "last": "お"
+  },
+  {
+    "id": 104,
+    "img": "100.png",
+    "wordType": "princess",
+    "word": "ドラちゃんのこうぶつ",
+    "first": "ど",
+    "last": "つ"
+  },
+  {
+    "id": 105,
+    "img": "105.png",
+    "wordType": "normal",
+    "word": "どんぐり",
+    "first": "ど",
+    "last": "り"
+  },
+  {
+    "id": 106,
+    "img": "105.png",
+    "wordType": "normal",
+    "word": "きのみ",
+    "first": "き",
+    "last": "み"
+  },
+  {
+    "id": 107,
+    "img": "105.png",
+    "wordType": "rev",
+    "word": "ナッツ",
+    "first": "な",
+    "last": "つ"
+  },
+  {
+    "id": 108,
+    "img": "105.png",
+    "wordType": "princess",
+    "word": "リンのおやつ",
+    "first": "り",
+    "last": "つ"
+  },
+  {
+    "id": 109,
+    "img": "109.png",
+    "wordType": "normal",
+    "word": "いちご",
+    "first": "い",
+    "last": "ご"
+  },
+  {
+    "id": 110,
+    "img": "109.png",
+    "wordType": "normal",
+    "word": "ストロベリー",
+    "first": "す",
+    "last": "り"
+  },
+  {
+    "id": 111,
+    "img": "109.png",
+    "wordType": "rev",
+    "word": "ジャム",
+    "first": "じ",
+    "last": "む"
+  },
+  {
+    "id": 112,
+    "img": "112.png",
+    "wordType": "normal",
+    "word": "とら",
+    "first": "と",
+    "last": "ら"
+  },
+  {
+    "id": 113,
+    "img": "112.png",
+    "wordType": "normal",
+    "word": "タイガー",
+    "first": "た",
+    "last": "が"
+  },
+  {
+    "id": 114,
+    "img": "112.png",
+    "wordType": "rev",
+    "word": "ねこ",
+    "first": "ね",
+    "last": "こ"
+  },
+  {
+    "id": 115,
+    "img": "112.png",
+    "wordType": "rev",
+    "word": "けもの",
+    "first": "け",
+    "last": "の"
+  },
+  {
+    "id": 116,
+    "img": "112.png",
+    "wordType": "princess",
+    "word": "マツリのあこがれ",
+    "first": "ま",
+    "last": "れ"
+  },
+  {
+    "id": 117,
+    "img": "112.png",
+    "wordType": "princess",
+    "word": "むてきのヒーロートラタイガー",
+    "first": "む",
+    "last": "が"
+  },
+  {
+    "id": 118,
+    "img": "118.png",
+    "wordType": "normal",
+    "word": "ぬいぐるみ",
+    "first": "ぬ",
+    "last": "み"
+  },
+  {
+    "id": 119,
+    "img": "118.png",
+    "wordType": "normal",
+    "word": "うさぎ",
+    "first": "う",
+    "last": "ぎ"
+  },
+  {
+    "id": 120,
+    "img": "118.png",
+    "wordType": "normal",
+    "word": "にんぎょう",
+    "first": "に",
+    "last": "う"
+  },
+  {
+    "id": 121,
+    "img": "118.png",
+    "wordType": "rev",
+    "word": "ラビット",
+    "first": "ら",
+    "last": "と"
+  },
+  {
+    "id": 122,
+    "img": "118.png",
+    "wordType": "princess",
+    "word": "アーサー",
+    "first": "あ",
+    "last": "さ"
+  },
+  {
+    "id": 123,
+    "img": "123.png",
+    "wordType": "normal",
+    "word": "ばくだん",
+    "first": "ば",
+    "last": "ん"
+  },
+  {
+    "id": 124,
+    "img": "123.png",
+    "wordType": "normal",
+    "word": "ボム",
+    "first": "ぼ",
+    "last": "む"
+  },
+  {
+    "id": 125,
+    "img": "123.png",
+    "wordType": "rev",
+    "word": "きけんぶつ",
+    "first": "き",
+    "last": "つ"
+  },
+  {
+    "id": 126,
+    "img": "123.png",
+    "wordType": "rev",
+    "word": "とびどうぐ",
+    "first": "と",
+    "last": "ぐ"
+  },
+  {
+    "id": 127,
+    "img": "123.png",
+    "wordType": "princess",
+    "word": "ミソギのいたずらグッズ",
+    "first": "み",
+    "last": "ず"
+  },
+  {
+    "id": 128,
+    "img": "128.png",
+    "wordType": "normal",
+    "word": "すいか",
+    "first": "す",
+    "last": "か"
+  },
+  {
+    "id": 129,
+    "img": "128.png",
+    "wordType": "rev",
+    "word": "こだますいか",
+    "first": "こ",
+    "last": "か"
+  },
+  {
+    "id": 130,
+    "img": "128.png",
+    "wordType": "rev",
+    "word": "なつのふうぶつし",
+    "first": "な",
+    "last": "し"
+  },
+  {
+    "id": 131,
+    "img": "131.png",
+    "wordType": "normal",
+    "word": "うま",
+    "first": "う",
+    "last": "ま"
+  },
+  {
+    "id": 132,
+    "img": "131.png",
+    "wordType": "normal",
+    "word": "ろば",
+    "first": "ろ",
+    "last": "ば"
+  },
+  {
+    "id": 133,
+    "img": "131.png",
+    "wordType": "rev",
+    "word": "ホース",
+    "first": "ほ",
+    "last": "す"
+  },
+  {
+    "id": 134,
+    "img": "131.png",
+    "wordType": "rev",
+    "word": "ぱかぱか",
+    "first": "ぱ",
+    "last": "か"
+  },
+  {
+    "id": 135,
+    "img": "131.png",
+    "wordType": "rev",
+    "word": "サラブレッド",
+    "first": "さ",
+    "last": "ど"
+  },
+  {
+    "id": 136,
+    "img": "131.png",
+    "wordType": "princess",
+    "word": "ムーバ",
+    "first": "む",
+    "last": "ば"
+  },
+  {
+    "id": 137,
+    "img": "137.png",
+    "wordType": "normal",
+    "word": "いす",
+    "first": "い",
+    "last": "す"
+  },
+  {
+    "id": 138,
+    "img": "137.png",
+    "wordType": "rev",
+    "word": "かぐ",
+    "first": "か",
+    "last": "ぐ"
+  },
+  {
+    "id": 139,
+    "img": "137.png",
+    "wordType": "rev",
+    "word": "チェア",
+    "first": "ち",
+    "last": "あ"
+  },
+  {
+    "id": 140,
+    "img": "137.png",
+    "wordType": "princess",
+    "word": "ギルドハウスアイテム",
+    "first": "ぎ",
+    "last": "む"
+  },
+  {
+    "id": 141,
+    "img": "141.png",
+    "wordType": "normal",
+    "word": "うみ",
+    "first": "う",
+    "last": "み"
+  },
+  {
+    "id": 142,
+    "img": "141.png",
+    "wordType": "normal",
+    "word": "かいがん",
+    "first": "か",
+    "last": "ん"
+  },
+  {
+    "id": 143,
+    "img": "141.png",
+    "wordType": "normal",
+    "word": "ビーチ",
+    "first": "び",
+    "last": "ち"
+  },
+  {
+    "id": 144,
+    "img": "141.png",
+    "wordType": "rev",
+    "word": "しおさい",
+    "first": "し",
+    "last": "い"
+  },
+  {
+    "id": 145,
+    "img": "141.png",
+    "wordType": "rev",
+    "word": "すなはま",
+    "first": "す",
+    "last": "ま"
+  },
+  {
+    "id": 146,
+    "img": "141.png",
+    "wordType": "princess",
+    "word": "マルジェンかいがん",
+    "first": "ま",
+    "last": "ん"
+  },
+  {
+    "id": 147,
+    "img": "147.png",
+    "wordType": "normal",
+    "word": "やどかり",
+    "first": "や",
+    "last": "り"
+  },
+  {
+    "id": 148,
+    "img": "147.png",
+    "wordType": "rev",
+    "word": "かいがら",
+    "first": "か",
+    "last": "ら"
+  },
+  {
+    "id": 149,
+    "img": "147.png",
+    "wordType": "rev",
+    "word": "こうかくるい",
+    "first": "こ",
+    "last": "い"
+  },
+  {
+    "id": 150,
+    "img": "147.png",
+    "wordType": "princess",
+    "word": "ハーミットナイト",
+    "first": "は",
+    "last": "と"
+  },
+  {
+    "id": 151,
+    "img": "151.png",
+    "wordType": "normal",
+    "word": "ふえ",
+    "first": "ふ",
+    "last": "え"
+  },
+  {
+    "id": 152,
+    "img": "151.png",
+    "wordType": "normal",
+    "word": "リコーダー",
+    "first": "り",
+    "last": "だ"
+  },
+  {
+    "id": 153,
+    "img": "151.png",
+    "wordType": "rev",
+    "word": "かんがっき",
+    "first": "か",
+    "last": "き"
+  },
+  {
+    "id": 154,
+    "img": "151.png",
+    "wordType": "rev",
+    "word": "たてぶえ",
+    "first": "た",
+    "last": "え"
+  },
+  {
+    "id": 155,
+    "img": "155.png",
+    "wordType": "normal",
+    "word": "ほん",
+    "first": "ほ",
+    "last": "ん"
+  },
+  {
+    "id": 156,
+    "img": "155.png",
+    "wordType": "normal",
+    "word": "ノート",
+    "first": "の",
+    "last": "と"
+  },
+  {
+    "id": 157,
+    "img": "155.png",
+    "wordType": "rev",
+    "word": "しょうせつ",
+    "first": "し",
+    "last": "つ"
+  },
+  {
+    "id": 158,
+    "img": "155.png",
+    "wordType": "rev",
+    "word": "ブック",
+    "first": "ぶ",
+    "last": "く"
+  },
+  {
+    "id": 159,
+    "img": "155.png",
+    "wordType": "princess",
+    "word": "キャルのまどうしょ",
+    "first": "き",
+    "last": "よ"
+  },
+  {
+    "id": 160,
+    "img": "160.png",
+    "wordType": "normal",
+    "word": "さかな",
+    "first": "さ",
+    "last": "な"
+  },
+  {
+    "id": 161,
+    "img": "160.png",
+    "wordType": "normal",
+    "word": "おさかな",
+    "first": "お",
+    "last": "な"
+  },
+  {
+    "id": 162,
+    "img": "160.png",
+    "wordType": "rev",
+    "word": "カツオ",
+    "first": "か",
+    "last": "お"
+  },
+  {
+    "id": 163,
+    "img": "160.png",
+    "wordType": "rev",
+    "word": "マグロ",
+    "first": "ま",
+    "last": "ろ"
+  },
+  {
+    "id": 164,
+    "img": "160.png",
+    "wordType": "rev",
+    "word": "フィッシュ",
+    "first": "ふ",
+    "last": "ゆ"
+  },
+  {
+    "id": 165,
+    "img": "160.png",
+    "wordType": "rev",
+    "word": "うお",
+    "first": "う",
+    "last": "お"
+  },
+  {
+    "id": 166,
+    "img": "166.png",
+    "wordType": "normal",
+    "word": "ツリー",
+    "first": "つ",
+    "last": "り"
+  },
+  {
+    "id": 167,
+    "img": "166.png",
+    "wordType": "normal",
+    "word": "クリスマス",
+    "first": "く",
+    "last": "す"
+  },
+  {
+    "id": 168,
+    "img": "166.png",
+    "wordType": "rev",
+    "word": "もみのき",
+    "first": "も",
+    "last": "き"
+  },
+  {
+    "id": 169,
+    "img": "166.png",
+    "wordType": "rev",
+    "word": "キャロル",
+    "first": "き",
+    "last": "る"
+  },
+  {
+    "id": 170,
+    "img": "166.png",
+    "wordType": "princess",
+    "word": "ぼうきゃくのキャロル",
+    "first": "ぼ",
+    "last": "る"
+  },
+  {
+    "id": 171,
+    "img": "171.png",
+    "wordType": "normal",
+    "word": "あめ",
+    "first": "あ",
+    "last": "め"
+  },
+  {
+    "id": 172,
+    "img": "171.png",
+    "wordType": "normal",
+    "word": "キャンディ",
+    "first": "き",
+    "last": "い"
+  },
+  {
+    "id": 173,
+    "img": "171.png",
+    "wordType": "rev",
+    "word": "ロリポップ",
+    "first": "ろ",
+    "last": "ぷ"
+  },
+  {
+    "id": 174,
+    "img": "171.png",
+    "wordType": "princess",
+    "word": "クロエのおやつ",
+    "first": "く",
+    "last": "つ"
+  },
+  {
+    "id": 175,
+    "img": "175.png",
+    "wordType": "normal",
+    "word": "ハンマー",
+    "first": "は",
+    "last": "ま"
+  },
+  {
+    "id": 176,
+    "img": "175.png",
+    "wordType": "normal",
+    "word": "ピコピコハンマー",
+    "first": "ぴ",
+    "last": "ま"
+  },
+  {
+    "id": 177,
+    "img": "175.png",
+    "wordType": "rev",
+    "word": "かなづち",
+    "first": "か",
+    "last": "ち"
+  },
+  {
+    "id": 178,
+    "img": "175.png",
+    "wordType": "rev",
+    "word": "こづち",
+    "first": "こ",
+    "last": "ち"
+  },
+  {
+    "id": 179,
+    "img": "175.png",
+    "wordType": "princess",
+    "word": "イノリのえもの",
+    "first": "い",
+    "last": "の"
+  },
+  {
+    "id": 180,
+    "img": "180.png",
+    "wordType": "normal",
+    "word": "ほし",
+    "first": "ほ",
+    "last": "し"
+  },
+  {
+    "id": 181,
+    "img": "180.png",
+    "wordType": "normal",
+    "word": "ごかくけい",
+    "first": "ご",
+    "last": "い"
+  },
+  {
+    "id": 182,
+    "img": "180.png",
+    "wordType": "normal",
+    "word": "スター",
+    "first": "す",
+    "last": "た"
+  },
+  {
+    "id": 183,
+    "img": "180.png",
+    "wordType": "rev",
+    "word": "ずけい",
+    "first": "ず",
+    "last": "い"
+  },
+  {
+    "id": 184,
+    "img": "180.png",
+    "wordType": "rev",
+    "word": "ひとで",
+    "first": "ひ",
+    "last": "で"
+  },
+  {
+    "id": 185,
+    "img": "180.png",
+    "wordType": "rev",
+    "word": "きらきら",
+    "first": "き",
+    "last": "ら"
+  },
+  {
+    "id": 186,
+    "img": "180.png",
+    "wordType": "princess",
+    "word": "ランドソルのかたち",
+    "first": "ら",
+    "last": "ち"
+  },
+  {
+    "id": 187,
+    "img": "187.png",
+    "wordType": "normal",
+    "word": "ぼうし",
+    "first": "ぼ",
+    "last": "し"
+  },
+  {
+    "id": 188,
+    "img": "187.png",
+    "wordType": "normal",
+    "word": "ハット",
+    "first": "は",
+    "last": "と"
+  },
+  {
+    "id": 189,
+    "img": "187.png",
+    "wordType": "rev",
+    "word": "やまたかぼう",
+    "first": "や",
+    "last": "う"
+  },
+  {
+    "id": 190,
+    "img": "187.png",
+    "wordType": "rev",
+    "word": "シルクハット",
+    "first": "し",
+    "last": "と"
+  },
+  {
+    "id": 191,
+    "img": "191.png",
+    "wordType": "normal",
+    "word": "カップ",
+    "first": "か",
+    "last": "ぷ"
+  },
+  {
+    "id": 192,
+    "img": "191.png",
+    "wordType": "normal",
+    "word": "コーヒー",
+    "first": "こ",
+    "last": "ひ"
+  },
+  {
+    "id": 193,
+    "img": "191.png",
+    "wordType": "rev",
+    "word": "マグ",
+    "first": "ま",
+    "last": "ぐ"
+  },
+  {
+    "id": 194,
+    "img": "194.png",
+    "wordType": "normal",
+    "word": "いぬ",
+    "first": "い",
+    "last": "ぬ"
+  },
+  {
+    "id": 195,
+    "img": "194.png",
+    "wordType": "normal",
+    "word": "ドッグ",
+    "first": "ど",
+    "last": "ぐ"
+  },
+  {
+    "id": 196,
+    "img": "194.png",
+    "wordType": "rev",
+    "word": "おおかみ",
+    "first": "お",
+    "last": "み"
+  },
+  {
+    "id": 197,
+    "img": "194.png",
+    "wordType": "rev",
+    "word": "ウルフ",
+    "first": "う",
+    "last": "ふ"
+  },
+  {
+    "id": 198,
+    "img": "194.png",
+    "wordType": "rev",
+    "word": "わんこ",
+    "first": "わ",
+    "last": "こ"
+  },
+  {
+    "id": 199,
+    "img": "199.png",
+    "wordType": "normal",
+    "word": "はた",
+    "first": "は",
+    "last": "た"
+  },
+  {
+    "id": 200,
+    "img": "199.png",
+    "wordType": "normal",
+    "word": "フラッグ",
+    "first": "ふ",
+    "last": "ぐ"
+  },
+  {
+    "id": 201,
+    "img": "201.png",
+    "wordType": "normal",
+    "word": "ケーキ",
+    "first": "け",
+    "last": "き"
+  },
+  {
+    "id": 202,
+    "img": "201.png",
+    "wordType": "normal",
+    "word": "おかし",
+    "first": "お",
+    "last": "し"
+  },
+  {
+    "id": 203,
+    "img": "201.png",
+    "wordType": "rev",
+    "word": "ぎふと",
+    "first": "ぎ",
+    "last": "と"
+  },
+  {
+    "id": 204,
+    "img": "201.png",
+    "wordType": "princess",
+    "word": "きずなポイント",
+    "first": "き",
+    "last": "と"
+  },
+  {
+    "id": 205,
+    "img": "201.png",
+    "wordType": "princess",
+    "word": "ミックスベリーケーキ",
+    "first": "み",
+    "last": "き"
+  },
+  {
+    "id": 206,
+    "img": "206.png",
+    "wordType": "normal",
+    "word": "マイク",
+    "first": "ま",
+    "last": "く"
+  },
+  {
+    "id": 207,
+    "img": "206.png",
+    "wordType": "normal",
+    "word": "うた",
+    "first": "う",
+    "last": "た"
+  },
+  {
+    "id": 208,
+    "img": "206.png",
+    "wordType": "normal",
+    "word": "ライブ",
+    "first": "ら",
+    "last": "ぶ"
+  },
+  {
+    "id": 209,
+    "img": "206.png",
+    "wordType": "rev",
+    "word": "アイドルのひっすあいてむ",
+    "first": "あ",
+    "last": "む"
+  },
+  {
+    "id": 210,
+    "img": "206.png",
+    "wordType": "princess",
+    "word": "ブリリアントマイク",
+    "first": "ぶ",
+    "last": "く"
+  },
+  {
+    "id": 211,
+    "img": "211.png",
+    "wordType": "normal",
+    "word": "くちべに",
+    "first": "く",
+    "last": "に"
+  },
+  {
+    "id": 212,
+    "img": "211.png",
+    "wordType": "normal",
+    "word": "リップ",
+    "first": "り",
+    "last": "ぷ"
+  },
+  {
+    "id": 213,
+    "img": "211.png",
+    "wordType": "rev",
+    "word": "ルージュ",
+    "first": "る",
+    "last": "ゆ"
+  },
+  {
+    "id": 214,
+    "img": "214.png",
+    "wordType": "normal",
+    "word": "もち",
+    "first": "も",
+    "last": "ち"
+  },
+  {
+    "id": 215,
+    "img": "214.png",
+    "wordType": "normal",
+    "word": "おもち",
+    "first": "お",
+    "last": "ち"
+  },
+  {
+    "id": 216,
+    "img": "214.png",
+    "wordType": "rev",
+    "word": "かがみもち",
+    "first": "か",
+    "last": "ち"
+  },
+  {
+    "id": 217,
+    "img": "214.png",
+    "wordType": "rev",
+    "word": "たんすいかぶつ",
+    "first": "た",
+    "last": "つ"
+  },
+  {
+    "id": 218,
+    "img": "214.png",
+    "wordType": "rev",
+    "word": "ライスケーキ",
+    "first": "ら",
+    "last": "き"
+  },
+  {
+    "id": 219,
+    "img": "219.png",
+    "wordType": "normal",
+    "word": "ようせい",
+    "first": "よ",
+    "last": "い"
+  },
+  {
+    "id": 220,
+    "img": "219.png",
+    "wordType": "rev",
+    "word": "フェアリー",
+    "first": "ふ",
+    "last": "り"
+  },
+  {
+    "id": 221,
+    "img": "219.png",
+    "wordType": "princess",
+    "word": "ネビア",
+    "first": "ね",
+    "last": "あ"
+  },
+  {
+    "id": 222,
+    "img": "222.png",
+    "wordType": "normal",
+    "word": "かさ",
+    "first": "か",
+    "last": "さ"
+  },
+  {
+    "id": 223,
+    "img": "222.png",
+    "wordType": "normal",
+    "word": "アンブレラ",
+    "first": "あ",
+    "last": "ら"
+  },
+  {
+    "id": 224,
+    "img": "222.png",
+    "wordType": "rev",
+    "word": "パラソル",
+    "first": "ぱ",
+    "last": "る"
+  },
+  {
+    "id": 225,
+    "img": "222.png",
+    "wordType": "rev",
+    "word": "ひがさ",
+    "first": "ひ",
+    "last": "さ"
+  },
+  {
+    "id": 226,
+    "img": "222.png",
+    "wordType": "princess",
+    "word": "ペコリーヌサマー",
+    "first": "ぺ",
+    "last": "ま"
+  },
+  {
+    "id": 227,
+    "img": "227.png",
+    "wordType": "normal",
+    "word": "さいころ",
+    "first": "さ",
+    "last": "ろ"
+  },
+  {
+    "id": 228,
+    "img": "227.png",
+    "wordType": "normal",
+    "word": "ダイス",
+    "first": "だ",
+    "last": "す"
+  },
+  {
+    "id": 229,
+    "img": "227.png",
+    "wordType": "rev",
+    "word": "ギャンブル",
+    "first": "ぎ",
+    "last": "る"
+  },
+  {
+    "id": 230,
+    "img": "227.png",
+    "wordType": "rev",
+    "word": "りっぽうたい",
+    "first": "り",
+    "last": "い"
+  },
+  {
+    "id": 231,
+    "img": "227.png",
+    "wordType": "rev",
+    "word": "すごろく",
+    "first": "す",
+    "last": "く"
+  },
+  {
+    "id": 232,
+    "img": "232.png",
+    "wordType": "normal",
+    "word": "てがみ",
+    "first": "て",
+    "last": "み"
+  },
+  {
+    "id": 233,
+    "img": "232.png",
+    "wordType": "rev",
+    "word": "メール",
+    "first": "め",
+    "last": "る"
+  },
+  {
+    "id": 234,
+    "img": "232.png",
+    "wordType": "rev",
+    "word": "レター",
+    "first": "れ",
+    "last": "た"
+  },
+  {
+    "id": 235,
+    "img": "232.png",
+    "wordType": "rev",
+    "word": "おたより",
+    "first": "お",
+    "last": "り"
+  },
+  {
+    "id": 236,
+    "img": "232.png",
+    "wordType": "rev",
+    "word": "ラブレター",
+    "first": "ら",
+    "last": "た"
+  },
+  {
+    "id": 237,
+    "img": "237.png",
+    "wordType": "normal",
+    "word": "ブドウ",
+    "first": "ぶ",
+    "last": "う"
+  },
+  {
+    "id": 238,
+    "img": "237.png",
+    "wordType": "normal",
+    "word": "グレープ",
+    "first": "ぐ",
+    "last": "ぷ"
+  },
+  {
+    "id": 239,
+    "img": "237.png",
+    "wordType": "rev",
+    "word": "きょほう",
+    "first": "き",
+    "last": "う"
+  },
+  {
+    "id": 240,
+    "img": "237.png",
+    "wordType": "rev",
+    "word": "デラウェア",
+    "first": "で",
+    "last": "あ"
+  },
+  {
+    "id": 241,
+    "img": "241.png",
+    "wordType": "normal",
+    "word": "ひつじ",
+    "first": "ひ",
+    "last": "じ"
+  },
+  {
+    "id": 242,
+    "img": "241.png",
+    "wordType": "rev",
+    "word": "シープ",
+    "first": "し",
+    "last": "ぷ"
+  },
+  {
+    "id": 243,
+    "img": "241.png",
+    "wordType": "rev",
+    "word": "メリーさんのひつじ",
+    "first": "め",
+    "last": "じ"
+  },
+  {
+    "id": 244,
+    "img": "244.png",
+    "wordType": "normal",
+    "word": "とうふ",
+    "first": "と",
+    "last": "ふ"
+  },
+  {
+    "id": 245,
+    "img": "244.png",
+    "wordType": "rev",
+    "word": "もめんどうふ",
+    "first": "も",
+    "last": "ふ"
+  },
+  {
+    "id": 246,
+    "img": "244.png",
+    "wordType": "rev",
+    "word": "きぬごしどうふ",
+    "first": "き",
+    "last": "ふ"
+  },
+  {
+    "id": 247,
+    "img": "244.png",
+    "wordType": "rev",
+    "word": "ひややっこ",
+    "first": "ひ",
+    "last": "こ"
+  },
+  {
+    "id": 248,
+    "img": "248.png",
+    "wordType": "normal",
+    "word": "あひる",
+    "first": "あ",
+    "last": "る"
+  },
+  {
+    "id": 249,
+    "img": "248.png",
+    "wordType": "normal",
+    "word": "がちょう",
+    "first": "が",
+    "last": "う"
+  },
+  {
+    "id": 250,
+    "img": "248.png",
+    "wordType": "rev",
+    "word": "グース",
+    "first": "ぐ",
+    "last": "す"
+  },
+  {
+    "id": 251,
+    "img": "248.png",
+    "wordType": "rev",
+    "word": "ダック",
+    "first": "だ",
+    "last": "く"
+  },
+  {
+    "id": 252,
+    "img": "248.png",
+    "wordType": "rev",
+    "word": "とり",
+    "first": "と",
+    "last": "り"
+  },
+  {
+    "id": 253,
+    "img": "253.png",
+    "wordType": "normal",
+    "word": "とんぼ",
+    "first": "と",
+    "last": "ぼ"
+  },
+  {
+    "id": 254,
+    "img": "253.png",
+    "wordType": "rev",
+    "word": "やんま",
+    "first": "や",
+    "last": "ま"
+  },
+  {
+    "id": 255,
+    "img": "253.png",
+    "wordType": "rev",
+    "word": "オニヤンマ",
+    "first": "お",
+    "last": "ま"
+  },
+  {
+    "id": 256,
+    "img": "253.png",
+    "wordType": "rev",
+    "word": "ドラゴンフライ",
+    "first": "ど",
+    "last": "い"
+  },
+  {
+    "id": 257,
+    "img": "257.png",
+    "wordType": "normal",
+    "word": "はっぱ",
+    "first": "は",
+    "last": "ぱ"
+  },
+  {
+    "id": 258,
+    "img": "257.png",
+    "wordType": "normal",
+    "word": "このは",
+    "first": "こ",
+    "last": "は"
+  },
+  {
+    "id": 259,
+    "img": "257.png",
+    "wordType": "rev",
+    "word": "リーフ",
+    "first": "り",
+    "last": "ふ"
+  },
+  {
+    "id": 260,
+    "img": "257.png",
+    "wordType": "rev",
+    "word": "くさ",
+    "first": "く",
+    "last": "さ"
+  },
+  {
+    "id": 261,
+    "img": "257.png",
+    "wordType": "princess",
+    "word": "アオイのともだち",
+    "first": "あ",
+    "last": "ち"
+  },
+  {
+    "id": 262,
+    "img": "262.png",
+    "wordType": "normal",
+    "word": "ゆびわ",
+    "first": "ゆ",
+    "last": "わ"
+  },
+  {
+    "id": 263,
+    "img": "262.png",
+    "wordType": "normal",
+    "word": "リング",
+    "first": "り",
+    "last": "ぐ"
+  },
+  {
+    "id": 264,
+    "img": "262.png",
+    "wordType": "normal",
+    "word": "わっか",
+    "first": "わ",
+    "last": "か"
+  },
+  {
+    "id": 265,
+    "img": "265.png",
+    "wordType": "normal",
+    "word": "なわ",
+    "first": "な",
+    "last": "わ"
+  },
+  {
+    "id": 266,
+    "img": "265.png",
+    "wordType": "normal",
+    "word": "ロープ",
+    "first": "ろ",
+    "last": "ぷ"
+  },
+  {
+    "id": 267,
+    "img": "265.png",
+    "wordType": "normal",
+    "word": "ひも",
+    "first": "ひ",
+    "last": "も"
+  },
+  {
+    "id": 268,
+    "img": "265.png",
+    "wordType": "normal",
+    "word": "つな",
+    "first": "つ",
+    "last": "な"
+  },
+  {
+    "id": 269,
+    "img": "265.png",
+    "wordType": "princess",
+    "word": "クウカのまるひアイテム",
+    "first": "く",
+    "last": "む"
+  },
+  {
+    "id": 270,
+    "img": "265.png",
+    "wordType": "princess",
+    "word": "エクスタシー",
+    "first": "え",
+    "last": "し"
+  },
+  {
+    "id": 271,
+    "img": "271.png",
+    "wordType": "normal",
+    "word": "たて",
+    "first": "た",
+    "last": "て"
+  },
+  {
+    "id": 272,
+    "img": "271.png",
+    "wordType": "normal",
+    "word": "シールド",
+    "first": "し",
+    "last": "ど"
+  },
+  {
+    "id": 273,
+    "img": "271.png",
+    "wordType": "rev",
+    "word": "ガード",
+    "first": "が",
+    "last": "ど"
+  },
+  {
+    "id": 274,
+    "img": "271.png",
+    "wordType": "rev",
+    "word": "ぼうぐ",
+    "first": "ぼ",
+    "last": "ぐ"
+  },
+  {
+    "id": 275,
+    "img": "271.png",
+    "wordType": "rev",
+    "word": "バックラー",
+    "first": "ば",
+    "last": "ら"
+  },
+  {
+    "id": 276,
+    "img": "271.png",
+    "wordType": "princess",
+    "word": "インフェルノシールド",
+    "first": "い",
+    "last": "ど"
+  },
+  {
+    "id": 277,
+    "img": "277.png",
+    "wordType": "normal",
+    "word": "おかね",
+    "first": "お",
+    "last": "ね"
+  },
+  {
+    "id": 278,
+    "img": "277.png",
+    "wordType": "normal",
+    "word": "かね",
+    "first": "か",
+    "last": "ね"
+  },
+  {
+    "id": 279,
+    "img": "277.png",
+    "wordType": "rev",
+    "word": "マネー",
+    "first": "ま",
+    "last": "ね"
+  },
+  {
+    "id": 280,
+    "img": "277.png",
+    "wordType": "rev",
+    "word": "きんか",
+    "first": "き",
+    "last": "か"
+  },
+  {
+    "id": 281,
+    "img": "277.png",
+    "wordType": "rev",
+    "word": "こぜに",
+    "first": "こ",
+    "last": "に"
+  },
+  {
+    "id": 282,
+    "img": "277.png",
+    "wordType": "princess",
+    "word": "ルピ",
+    "first": "る",
+    "last": "ぴ"
+  },
+  {
+    "id": 283,
+    "img": "277.png",
+    "wordType": "princess",
+    "word": "ギルドハウスかぐこうにゅう",
+    "first": "ぎ",
+    "last": "う"
+  },
+  {
+    "id": 284,
+    "img": "284.png",
+    "wordType": "normal",
+    "word": "プリンアラモード",
+    "first": "ぷ",
+    "last": "ど"
+  },
+  {
+    "id": 285,
+    "img": "284.png",
+    "wordType": "normal",
+    "word": "デザート",
+    "first": "で",
+    "last": "と"
+  },
+  {
+    "id": 286,
+    "img": "284.png",
+    "wordType": "rev",
+    "word": "スイーツ",
+    "first": "す",
+    "last": "つ"
+  },
+  {
+    "id": 287,
+    "img": "284.png",
+    "wordType": "princess",
+    "word": "ミヤコのおやつ",
+    "first": "み",
+    "last": "つ"
+  },
+  {
+    "id": 288,
+    "img": "288.png",
+    "wordType": "normal",
+    "word": "ネックレス",
+    "first": "ね",
+    "last": "す"
+  },
+  {
+    "id": 289,
+    "img": "288.png",
+    "wordType": "normal",
+    "word": "ペンダント",
+    "first": "ぺ",
+    "last": "と"
+  },
+  {
+    "id": 290,
+    "img": "288.png",
+    "wordType": "rev",
+    "word": "アクセサリー",
+    "first": "あ",
+    "last": "り"
+  },
+  {
+    "id": 291,
+    "img": "288.png",
+    "wordType": "rev",
+    "word": "くびかざり",
+    "first": "く",
+    "last": "り"
+  },
+  {
+    "id": 292,
+    "img": "292.png",
+    "wordType": "normal",
+    "word": "いなほ",
+    "first": "い",
+    "last": "ほ"
+  },
+  {
+    "id": 293,
+    "img": "292.png",
+    "wordType": "rev",
+    "word": "たんぼ",
+    "first": "た",
+    "last": "ぼ"
+  },
+  {
+    "id": 294,
+    "img": "292.png",
+    "wordType": "rev",
+    "word": "こめ",
+    "first": "こ",
+    "last": "め"
+  },
+  {
+    "id": 295,
+    "img": "292.png",
+    "wordType": "rev",
+    "word": "おこめ",
+    "first": "お",
+    "last": "め"
+  },
+  {
+    "id": 296,
+    "img": "292.png",
+    "wordType": "rev",
+    "word": "むぎ",
+    "first": "む",
+    "last": "ぎ"
+  },
+  {
+    "id": 297,
+    "img": "297.png",
+    "wordType": "normal",
+    "word": "しょうゆ",
+    "first": "し",
+    "last": "ゆ"
+  },
+  {
+    "id": 298,
+    "img": "297.png",
+    "wordType": "rev",
+    "word": "ソイソース",
+    "first": "そ",
+    "last": "す"
+  },
+  {
+    "id": 299,
+    "img": "297.png",
+    "wordType": "rev",
+    "word": "ちょうみりょう",
+    "first": "ち",
+    "last": "う"
+  },
+  {
+    "id": 300,
+    "img": "300.png",
+    "wordType": "normal",
+    "word": "ベルトコンベア",
+    "first": "べ",
+    "last": "あ"
+  },
+  {
+    "id": 301,
+    "img": "300.png",
+    "wordType": "rev",
+    "word": "こうじょう",
+    "first": "こ",
+    "last": "う"
+  },
+  {
+    "id": 302,
+    "img": "300.png",
+    "wordType": "rev",
+    "word": "ファクトリー",
+    "first": "ふ",
+    "last": "り"
+  },
+  {
+    "id": 303,
+    "img": "300.png",
+    "wordType": "princess",
+    "word": "たいやきこうじょう",
+    "first": "た",
+    "last": "う"
+  },
+  {
+    "id": 304,
+    "img": "304.png",
+    "wordType": "normal",
+    "word": "シャンデリア",
+    "first": "し",
+    "last": "あ"
+  },
+  {
+    "id": 305,
+    "img": "304.png",
+    "wordType": "rev",
+    "word": "あかり",
+    "first": "あ",
+    "last": "り"
+  },
+  {
+    "id": 306,
+    "img": "306.png",
+    "wordType": "normal",
+    "word": "しお",
+    "first": "し",
+    "last": "お"
+  },
+  {
+    "id": 307,
+    "img": "306.png",
+    "wordType": "rev",
+    "word": "ソルト",
+    "first": "そ",
+    "last": "と"
+  },
+  {
+    "id": 308,
+    "img": "306.png",
+    "wordType": "rev",
+    "word": "ちょうみりょう",
+    "first": "ち",
+    "last": "う"
+  },
+  {
+    "id": 309,
+    "img": "309.png",
+    "wordType": "normal",
+    "word": "うずしお",
+    "first": "う",
+    "last": "お"
+  },
+  {
+    "id": 310,
+    "img": "309.png",
+    "wordType": "rev",
+    "word": "ぐるぐる",
+    "first": "ぐ",
+    "last": "る"
+  },
+  {
+    "id": 311,
+    "img": "311.png",
+    "wordType": "normal",
+    "word": "つりざお",
+    "first": "つ",
+    "last": "お"
+  },
+  {
+    "id": 312,
+    "img": "311.png",
+    "wordType": "rev",
+    "word": "ロッド",
+    "first": "ろ",
+    "last": "ど"
+  },
+  {
+    "id": 313,
+    "img": "311.png",
+    "wordType": "princess",
+    "word": "ルカのしゅみごと",
+    "first": "る",
+    "last": "と"
+  },
+  {
+    "id": 314,
+    "img": "314.png",
+    "wordType": "normal",
+    "word": "なべ",
+    "first": "な",
+    "last": "べ"
+  },
+  {
+    "id": 315,
+    "img": "314.png",
+    "wordType": "normal",
+    "word": "おなべ",
+    "first": "お",
+    "last": "べ"
+  },
+  {
+    "id": 316,
+    "img": "314.png",
+    "wordType": "rev",
+    "word": "ずんどう",
+    "first": "ず",
+    "last": "う"
+  },
+  {
+    "id": 317,
+    "img": "314.png",
+    "wordType": "rev",
+    "word": "カレー",
+    "first": "か",
+    "last": "れ"
+  },
+  {
+    "id": 318,
+    "img": "314.png",
+    "wordType": "rev",
+    "word": "シチュー",
+    "first": "し",
+    "last": "ゆ"
+  },
+  {
+    "id": 319,
+    "img": "319.png",
+    "wordType": "normal",
+    "word": "シーソー",
+    "first": "し",
+    "last": "そ"
+  },
+  {
+    "id": 320,
+    "img": "319.png",
+    "wordType": "rev",
+    "word": "ゆうぐ",
+    "first": "ゆ",
+    "last": "ぐ"
+  },
+  {
+    "id": 321,
+    "img": "319.png",
+    "wordType": "rev",
+    "word": "ぎったんばっこん",
+    "first": "ぎ",
+    "last": "ん"
+  },
+  {
+    "id": 322,
+    "img": "319.png",
+    "wordType": "rev",
+    "word": "こうえんあそび",
+    "first": "こ",
+    "last": "び"
+  },
+  {
+    "id": 323,
+    "img": "323.png",
+    "wordType": "normal",
+    "word": "ふで",
+    "first": "ふ",
+    "last": "で"
+  },
+  {
+    "id": 324,
+    "img": "323.png",
+    "wordType": "rev",
+    "word": "しょどう",
+    "first": "し",
+    "last": "う"
+  },
+  {
+    "id": 325,
+    "img": "323.png",
+    "wordType": "rev",
+    "word": "もうひつ",
+    "first": "も",
+    "last": "つ"
+  },
+  {
+    "id": 326,
+    "img": "323.png",
+    "wordType": "rev",
+    "word": "おしゅうじ",
+    "first": "お",
+    "last": "じ"
+  },
+  {
+    "id": 327,
+    "img": "323.png",
+    "wordType": "rev",
+    "word": "すずり",
+    "first": "す",
+    "last": "り"
+  },
+  {
+    "id": 328,
+    "img": "323.png",
+    "wordType": "princess",
+    "word": "とーごくぶんか",
+    "first": "と",
+    "last": "か"
+  },
+  {
+    "id": 329,
+    "img": "329.png",
+    "wordType": "normal",
+    "word": "きんトレ",
+    "first": "き",
+    "last": "れ"
+  },
+  {
+    "id": 330,
+    "img": "329.png",
+    "wordType": "normal",
+    "word": "ダンベル",
+    "first": "だ",
+    "last": "る"
+  },
+  {
+    "id": 331,
+    "img": "329.png",
+    "wordType": "rev",
+    "word": "マッスル",
+    "first": "ま",
+    "last": "る"
+  },
+  {
+    "id": 332,
+    "img": "329.png",
+    "wordType": "rev",
+    "word": "ウェイトトレーニング",
+    "first": "う",
+    "last": "ぐ"
+  },
+  {
+    "id": 333,
+    "img": "333.png",
+    "wordType": "normal",
+    "word": "おばけ",
+    "first": "お",
+    "last": "け"
+  },
+  {
+    "id": 334,
+    "img": "333.png",
+    "wordType": "normal",
+    "word": "ゆうれい",
+    "first": "ゆ",
+    "last": "い"
+  },
+  {
+    "id": 335,
+    "img": "333.png",
+    "wordType": "princess",
+    "word": "ミヤコ",
+    "first": "み",
+    "last": "こ"
+  },
+  {
+    "id": 336,
+    "img": "333.png",
+    "wordType": "princess",
+    "word": "むてき",
+    "first": "む",
+    "last": "き"
+  },
+  {
+    "id": 337,
+    "img": "337.png",
+    "wordType": "normal",
+    "word": "ヒヨリ",
+    "first": "ひ",
+    "last": "り"
+  },
+  {
+    "id": 338,
+    "img": "337.png",
+    "wordType": "princess",
+    "word": "ほっとけないよ",
+    "first": "ほ",
+    "last": "よ"
+  },
+  {
+    "id": 339,
+    "img": "339.png",
+    "wordType": "normal",
+    "word": "ユイ",
+    "first": "ゆ",
+    "last": "い"
+  },
+  {
+    "id": 340,
+    "img": "339.png",
+    "wordType": "princess",
+    "word": "ヒールオール",
+    "first": "ひ",
+    "last": "る"
+  },
+  {
+    "id": 341,
+    "img": "339.png",
+    "wordType": "princess",
+    "word": "マコトのおさななじみ",
+    "first": "ま",
+    "last": "み"
+  },
+  {
+    "id": 342,
+    "img": "342.png",
+    "wordType": "normal",
+    "word": "レイ",
+    "first": "れ",
+    "last": "い"
+  },
+  {
+    "id": 343,
+    "img": "342.png",
+    "wordType": "princess",
+    "word": "じょうば",
+    "first": "じ",
+    "last": "ば"
+  },
+  {
+    "id": 344,
+    "img": "344.png",
+    "wordType": "normal",
+    "word": "ミソギ",
+    "first": "み",
+    "last": "ぎ"
+  },
+  {
+    "id": 345,
+    "img": "344.png",
+    "wordType": "princess",
+    "word": "いたずらっこ",
+    "first": "い",
+    "last": "こ"
+  },
+  {
+    "id": 346,
+    "img": "346.png",
+    "wordType": "normal",
+    "word": "マツリ",
+    "first": "ま",
+    "last": "り"
+  },
+  {
+    "id": 347,
+    "img": "346.png",
+    "wordType": "princess",
+    "word": "ヒーローみならい",
+    "first": "ひ",
+    "last": "い"
+  },
+  {
+    "id": 348,
+    "img": "348.png",
+    "wordType": "normal",
+    "word": "アカリ",
+    "first": "あ",
+    "last": "り"
+  },
+  {
+    "id": 349,
+    "img": "348.png",
+    "wordType": "princess",
+    "word": "ヨリのいもうと",
+    "first": "よ",
+    "last": "と"
+  },
+  {
+    "id": 350,
+    "img": "348.png",
+    "wordType": "princess",
+    "word": "こあくま",
+    "first": "こ",
+    "last": "ま"
+  },
+  {
+    "id": 351,
+    "img": "351.png",
+    "wordType": "normal",
+    "word": "ミヤコ",
+    "first": "み",
+    "last": "こ"
+  },
+  {
+    "id": 352,
+    "img": "351.png",
+    "wordType": "princess",
+    "word": "ゆうれい",
+    "first": "ゆ",
+    "last": "い"
+  },
+  {
+    "id": 353,
+    "img": "351.png",
+    "wordType": "princess",
+    "word": "ぷりんだいすき",
+    "first": "ぷ",
+    "last": "き"
+  },
+  {
+    "id": 354,
+    "img": "354.png",
+    "wordType": "normal",
+    "word": "ユキ",
+    "first": "ゆ",
+    "last": "き"
+  },
+  {
+    "id": 355,
+    "img": "354.png",
+    "wordType": "princess",
+    "word": "うつくしいボク",
+    "first": "う",
+    "last": "く"
+  },
+  {
+    "id": 356,
+    "img": "354.png",
+    "wordType": "princess",
+    "word": "ナルシスト",
+    "first": "な",
+    "last": "と"
+  },
+  {
+    "id": 357,
+    "img": "357.png",
+    "wordType": "normal",
+    "word": "アンナ",
+    "first": "あ",
+    "last": "な"
+  },
+  {
+    "id": 358,
+    "img": "357.png",
+    "wordType": "princess",
+    "word": "しっぷうのヘカーテ",
+    "first": "し",
+    "last": "て"
+  },
+  {
+    "id": 359,
+    "img": "357.png",
+    "wordType": "princess",
+    "word": "ちゅうにびょう",
+    "first": "ち",
+    "last": "う"
+  },
+  {
+    "id": 360,
+    "img": "360.png",
+    "wordType": "normal",
+    "word": "マホ",
+    "first": "ま",
+    "last": "ほ"
+  },
+  {
+    "id": 361,
+    "img": "360.png",
+    "wordType": "princess",
+    "word": "おひめさま",
+    "first": "お",
+    "last": "ま"
+  },
+  {
+    "id": 362,
+    "img": "360.png",
+    "wordType": "princess",
+    "word": "くるりんぱ",
+    "first": "く",
+    "last": "ぱ"
+  },
+  {
+    "id": 363,
+    "img": "363.png",
+    "wordType": "normal",
+    "word": "リノ",
+    "first": "り",
+    "last": "の"
+  },
+  {
+    "id": 364,
+    "img": "363.png",
+    "wordType": "princess",
+    "word": "いもうと",
+    "first": "い",
+    "last": "と"
+  },
+  {
+    "id": 365,
+    "img": "363.png",
+    "wordType": "princess",
+    "word": "あほのこ",
+    "first": "あ",
+    "last": "こ"
+  },
+  {
+    "id": 366,
+    "img": "366.png",
+    "wordType": "normal",
+    "word": "ハツネ",
+    "first": "は",
+    "last": "ね"
+  },
+  {
+    "id": 367,
+    "img": "366.png",
+    "wordType": "princess",
+    "word": "ちょうのうりょくしょうじょ",
+    "first": "ち",
+    "last": "よ"
+  },
+  {
+    "id": 368,
+    "img": "366.png",
+    "wordType": "princess",
+    "word": "スヤスヤ",
+    "first": "す",
+    "last": "や"
+  },
+  {
+    "id": 369,
+    "img": "366.png",
+    "wordType": "princess",
+    "word": "シオリンのあね",
+    "first": "し",
+    "last": "ね"
+  },
+  {
+    "id": 370,
+    "img": "370.png",
+    "wordType": "normal",
+    "word": "ナナカ",
+    "first": "な",
+    "last": "か"
+  },
+  {
+    "id": 371,
+    "img": "370.png",
+    "wordType": "princess",
+    "word": "まほうしょうじょ",
+    "first": "ま",
+    "last": "よ"
+  },
+  {
+    "id": 372,
+    "img": "370.png",
+    "wordType": "princess",
+    "word": "サイカワ",
+    "first": "さ",
+    "last": "わ"
+  },
+  {
+    "id": 373,
+    "img": "373.png",
+    "wordType": "normal",
+    "word": "カスミ",
+    "first": "か",
+    "last": "み"
+  },
+  {
+    "id": 374,
+    "img": "373.png",
+    "wordType": "princess",
+    "word": "たんてい",
+    "first": "た",
+    "last": "い"
+  },
+  {
+    "id": 375,
+    "img": "373.png",
+    "wordType": "princess",
+    "word": "めいたんてい",
+    "first": "め",
+    "last": "い"
+  },
+  {
+    "id": 376,
+    "img": "376.png",
+    "wordType": "normal",
+    "word": "ミサト",
+    "first": "み",
+    "last": "と"
+  },
+  {
+    "id": 377,
+    "img": "376.png",
+    "wordType": "princess",
+    "word": "ほいくえんのせんせい",
+    "first": "ほ",
+    "last": "い"
+  },
+  {
+    "id": 378,
+    "img": "378.png",
+    "wordType": "normal",
+    "word": "スズナ",
+    "first": "す",
+    "last": "な"
+  },
+  {
+    "id": 379,
+    "img": "378.png",
+    "wordType": "princess",
+    "word": "カリスマモデル",
+    "first": "か",
+    "last": "る"
+  },
+  {
+    "id": 380,
+    "img": "378.png",
+    "wordType": "princess",
+    "word": "ギャル",
+    "first": "ぎ",
+    "last": "る"
+  },
+  {
+    "id": 381,
+    "img": "381.png",
+    "wordType": "normal",
+    "word": "カオリ",
+    "first": "か",
+    "last": "り"
+  },
+  {
+    "id": 382,
+    "img": "381.png",
+    "wordType": "princess",
+    "word": "りゅうきゅうからて",
+    "first": "り",
+    "last": "て"
+  },
+  {
+    "id": 383,
+    "img": "381.png",
+    "wordType": "princess",
+    "word": "ハイタ～イ",
+    "first": "は",
+    "last": "い"
+  },
+  {
+    "id": 384,
+    "img": "384.png",
+    "wordType": "normal",
+    "word": "イオ",
+    "first": "い",
+    "last": "お"
+  },
+  {
+    "id": 385,
+    "img": "384.png",
+    "wordType": "princess",
+    "word": "ちゃんイオ",
+    "first": "ち",
+    "last": "お"
+  },
+  {
+    "id": 386,
+    "img": "384.png",
+    "wordType": "princess",
+    "word": "しんまいきょうし",
+    "first": "し",
+    "last": "し"
+  },
+  {
+    "id": 387,
+    "img": "387.png",
+    "wordType": "normal",
+    "word": "ミミ",
+    "first": "み",
+    "last": "み"
+  },
+  {
+    "id": 388,
+    "img": "387.png",
+    "wordType": "princess",
+    "word": "うさぎさんだいすき",
+    "first": "う",
+    "last": "き"
+  },
+  {
+    "id": 389,
+    "img": "389.png",
+    "wordType": "normal",
+    "word": "クルミ",
+    "first": "く",
+    "last": "み"
+  },
+  {
+    "id": 390,
+    "img": "389.png",
+    "wordType": "princess",
+    "word": "めいじょゆう",
+    "first": "め",
+    "last": "う"
+  },
+  {
+    "id": 391,
+    "img": "391.png",
+    "wordType": "normal",
+    "word": "ヨリ",
+    "first": "よ",
+    "last": "り"
+  },
+  {
+    "id": 392,
+    "img": "391.png",
+    "wordType": "princess",
+    "word": "ふたごのあね",
+    "first": "ふ",
+    "last": "ね"
+  },
+  {
+    "id": 393,
+    "img": "391.png",
+    "wordType": "princess",
+    "word": "シャイ",
+    "first": "し",
+    "last": "い"
+  },
+  {
+    "id": 394,
+    "img": "391.png",
+    "wordType": "princess",
+    "word": "てんさいゲーマー",
+    "first": "て",
+    "last": "ま"
+  },
+  {
+    "id": 395,
+    "img": "395.png",
+    "wordType": "normal",
+    "word": "アヤネ",
+    "first": "あ",
+    "last": "ね"
+  },
+  {
+    "id": 396,
+    "img": "395.png",
+    "wordType": "princess",
+    "word": "ぷうきちのパートナー",
+    "first": "ぷ",
+    "last": "な"
+  },
+  {
+    "id": 397,
+    "img": "397.png",
+    "wordType": "normal",
+    "word": "スズメ",
+    "first": "す",
+    "last": "め"
+  },
+  {
+    "id": 398,
+    "img": "397.png",
+    "wordType": "princess",
+    "word": "メイド",
+    "first": "め",
+    "last": "ど"
+  },
+  {
+    "id": 399,
+    "img": "397.png",
+    "wordType": "princess",
+    "word": "おっちょこちょい",
+    "first": "お",
+    "last": "い"
+  },
+  {
+    "id": 400,
+    "img": "400.png",
+    "wordType": "normal",
+    "word": "リン",
+    "first": "り",
+    "last": "ん"
+  },
+  {
+    "id": 401,
+    "img": "400.png",
+    "wordType": "princess",
+    "word": "ぐうたら",
+    "first": "ぐ",
+    "last": "ら"
+  },
+  {
+    "id": 402,
+    "img": "402.png",
+    "wordType": "normal",
+    "word": "エリコ",
+    "first": "え",
+    "last": "こ"
+  },
+  {
+    "id": 403,
+    "img": "402.png",
+    "wordType": "princess",
+    "word": "デストロイヤー",
+    "first": "で",
+    "last": "や"
+  },
+  {
+    "id": 404,
+    "img": "404.png",
+    "wordType": "normal",
+    "word": "サレン",
+    "first": "さ",
+    "last": "ん"
+  },
+  {
+    "id": 405,
+    "img": "404.png",
+    "wordType": "princess",
+    "word": "ママ",
+    "first": "ま",
+    "last": "ま"
+  },
+  {
+    "id": 406,
+    "img": "406.png",
+    "wordType": "normal",
+    "word": "ノゾミ",
+    "first": "の",
+    "last": "み"
+  },
+  {
+    "id": 407,
+    "img": "406.png",
+    "wordType": "princess",
+    "word": "だいにんきアイドル",
+    "first": "だ",
+    "last": "る"
+  },
+  {
+    "id": 408,
+    "img": "408.png",
+    "wordType": "normal",
+    "word": "ニノン",
+    "first": "に",
+    "last": "ん"
+  },
+  {
+    "id": 409,
+    "img": "408.png",
+    "wordType": "princess",
+    "word": "トーゴクかぶれ",
+    "first": "と",
+    "last": "れ"
+  },
+  {
+    "id": 410,
+    "img": "408.png",
+    "wordType": "princess",
+    "word": "えせニンジャ",
+    "first": "え",
+    "last": "や"
+  },
+  {
+    "id": 411,
+    "img": "411.png",
+    "wordType": "normal",
+    "word": "シノブ",
+    "first": "し",
+    "last": "ぶ"
+  },
+  {
+    "id": 412,
+    "img": "411.png",
+    "wordType": "princess",
+    "word": "うらないし",
+    "first": "う",
+    "last": "し"
+  },
+  {
+    "id": 413,
+    "img": "413.png",
+    "wordType": "normal",
+    "word": "アキノ",
+    "first": "あ",
+    "last": "の"
+  },
+  {
+    "id": 414,
+    "img": "413.png",
+    "wordType": "princess",
+    "word": "ごれいじょう",
+    "first": "ご",
+    "last": "う"
+  },
+  {
+    "id": 415,
+    "img": "415.png",
+    "wordType": "normal",
+    "word": "マヒル",
+    "first": "ま",
+    "last": "る"
+  },
+  {
+    "id": 416,
+    "img": "415.png",
+    "wordType": "princess",
+    "word": "ぼくじょうぬし",
+    "first": "ぼ",
+    "last": "し"
+  },
+  {
+    "id": 417,
+    "img": "415.png",
+    "wordType": "princess",
+    "word": "おわらいのみち",
+    "first": "お",
+    "last": "ち"
+  },
+  {
+    "id": 418,
+    "img": "418.png",
+    "wordType": "normal",
+    "word": "ユカリ",
+    "first": "ゆ",
+    "last": "り"
+  },
+  {
+    "id": 419,
+    "img": "418.png",
+    "wordType": "princess",
+    "word": "のんべえ",
+    "first": "の",
+    "last": "え"
+  },
+  {
+    "id": 420,
+    "img": "420.png",
+    "wordType": "normal",
+    "word": "キョウカ",
+    "first": "き",
+    "last": "か"
+  },
+  {
+    "id": 421,
+    "img": "420.png",
+    "wordType": "princess",
+    "word": "ゆうとうせい",
+    "first": "ゆ",
+    "last": "い"
+  },
+  {
+    "id": 422,
+    "img": "422.png",
+    "wordType": "normal",
+    "word": "トモ",
+    "first": "と",
+    "last": "も"
+  },
+  {
+    "id": 423,
+    "img": "422.png",
+    "wordType": "princess",
+    "word": "ミクマりゅう",
+    "first": "み",
+    "last": "う"
+  },
+  {
+    "id": 424,
+    "img": "424.png",
+    "wordType": "normal",
+    "word": "シオリ",
+    "first": "し",
+    "last": "り"
+  },
+  {
+    "id": 425,
+    "img": "424.png",
+    "wordType": "princess",
+    "word": "ハツネちゃんのいもうと",
+    "first": "は",
+    "last": "と"
+  },
+  {
+    "id": 426,
+    "img": "426.png",
+    "wordType": "normal",
+    "word": "アオイ",
+    "first": "あ",
+    "last": "い"
+  },
+  {
+    "id": 427,
+    "img": "426.png",
+    "wordType": "princess",
+    "word": "ビービーだんのメンバー",
+    "first": "び",
+    "last": "ば"
+  },
+  {
+    "id": 428,
+    "img": "426.png",
+    "wordType": "princess",
+    "word": "ぼっち",
+    "first": "ぼ",
+    "last": "ち"
+  },
+  {
+    "id": 429,
+    "img": "429.png",
+    "wordType": "normal",
+    "word": "チカ",
+    "first": "ち",
+    "last": "か"
+  },
+  {
+    "id": 430,
+    "img": "429.png",
+    "wordType": "princess",
+    "word": "しょうかんじゅつし",
+    "first": "し",
+    "last": "し"
+  },
+  {
+    "id": 431,
+    "img": "429.png",
+    "wordType": "princess",
+    "word": "うたひめ",
+    "first": "う",
+    "last": "め"
+  },
+  {
+    "id": 432,
+    "img": "432.png",
+    "wordType": "normal",
+    "word": "マコト",
+    "first": "ま",
+    "last": "と"
+  },
+  {
+    "id": 433,
+    "img": "432.png",
+    "wordType": "princess",
+    "word": "ユイのおさななじみ",
+    "first": "ゆ",
+    "last": "み"
+  },
+  {
+    "id": 434,
+    "img": "434.png",
+    "wordType": "normal",
+    "word": "イリヤ",
+    "first": "い",
+    "last": "や"
+  },
+  {
+    "id": 435,
+    "img": "434.png",
+    "wordType": "princess",
+    "word": "バンパイア",
+    "first": "ば",
+    "last": "あ"
+  },
+  {
+    "id": 436,
+    "img": "434.png",
+    "wordType": "princess",
+    "word": "でんせつのバンパイア",
+    "first": "で",
+    "last": "あ"
+  },
+  {
+    "id": 437,
+    "img": "434.png",
+    "wordType": "princess",
+    "word": "よるをすべるもの",
+    "first": "よ",
+    "last": "の"
+  },
+  {
+    "id": 438,
+    "img": "438.png",
+    "wordType": "normal",
+    "word": "クウカ",
+    "first": "く",
+    "last": "か"
+  },
+  {
+    "id": 439,
+    "img": "438.png",
+    "wordType": "princess",
+    "word": "ドえむ",
+    "first": "ど",
+    "last": "む"
+  },
+  {
+    "id": 440,
+    "img": "440.png",
+    "wordType": "normal",
+    "word": "タマキ",
+    "first": "た",
+    "last": "き"
+  },
+  {
+    "id": 441,
+    "img": "440.png",
+    "wordType": "princess",
+    "word": "ネコむすめ",
+    "first": "ね",
+    "last": "め"
+  },
+  {
+    "id": 442,
+    "img": "440.png",
+    "wordType": "princess",
+    "word": "ファントムキャッツ",
+    "first": "ふ",
+    "last": "つ"
+  },
+  {
+    "id": 443,
+    "img": "443.png",
+    "wordType": "normal",
+    "word": "ジュン",
+    "first": "じ",
+    "last": "ん"
+  },
+  {
+    "id": 444,
+    "img": "443.png",
+    "wordType": "princess",
+    "word": "だんちょう",
+    "first": "だ",
+    "last": "う"
+  },
+  {
+    "id": 445,
+    "img": "445.png",
+    "wordType": "normal",
+    "word": "ミフユ",
+    "first": "み",
+    "last": "ゆ"
+  },
+  {
+    "id": 446,
+    "img": "445.png",
+    "wordType": "princess",
+    "word": "ししょう",
+    "first": "し",
+    "last": "う"
+  },
+  {
+    "id": 447,
+    "img": "445.png",
+    "wordType": "princess",
+    "word": "こうりつちゅう",
+    "first": "こ",
+    "last": "う"
+  },
+  {
+    "id": 448,
+    "img": "448.png",
+    "wordType": "normal",
+    "word": "シズル",
+    "first": "し",
+    "last": "る"
+  },
+  {
+    "id": 449,
+    "img": "448.png",
+    "wordType": "princess",
+    "word": "おねえちゃんだよ",
+    "first": "お",
+    "last": "よ"
+  },
+  {
+    "id": 450,
+    "img": "450.png",
+    "wordType": "normal",
+    "word": "ミサキ",
+    "first": "み",
+    "last": "き"
+  },
+  {
+    "id": 451,
+    "img": "450.png",
+    "wordType": "princess",
+    "word": "おとなのレディ",
+    "first": "お",
+    "last": "い"
+  },
+  {
+    "id": 452,
+    "img": "452.png",
+    "wordType": "normal",
+    "word": "ミツキ",
+    "first": "み",
+    "last": "き"
+  },
+  {
+    "id": 453,
+    "img": "452.png",
+    "wordType": "princess",
+    "word": "マッドサイエンティスト",
+    "first": "ま",
+    "last": "と"
+  },
+  {
+    "id": 454,
+    "img": "452.png",
+    "wordType": "princess",
+    "word": "ワンアイドデビル",
+    "first": "わ",
+    "last": "る"
+  },
+  {
+    "id": 455,
+    "img": "455.png",
+    "wordType": "normal",
+    "word": "リマ",
+    "first": "り",
+    "last": "ま"
+  },
+  {
+    "id": 456,
+    "img": "455.png",
+    "wordType": "princess",
+    "word": "もふもふ",
+    "first": "も",
+    "last": "ふ"
+  },
+  {
+    "id": 457,
+    "img": "457.png",
+    "wordType": "normal",
+    "word": "モニカ",
+    "first": "も",
+    "last": "か"
+  },
+  {
+    "id": 458,
+    "img": "457.png",
+    "wordType": "princess",
+    "word": "おこちゃま",
+    "first": "お",
+    "last": "ま"
+  },
+  {
+    "id": 459,
+    "img": "459.png",
+    "wordType": "normal",
+    "word": "ツムギ",
+    "first": "つ",
+    "last": "ぎ"
+  },
+  {
+    "id": 460,
+    "img": "459.png",
+    "wordType": "princess",
+    "word": "テーラー",
+    "first": "て",
+    "last": "ら"
+  },
+  {
+    "id": 461,
+    "img": "459.png",
+    "wordType": "princess",
+    "word": "レイさまファンクラブ",
+    "first": "れ",
+    "last": "ぶ"
+  },
+  {
+    "id": 462,
+    "img": "462.png",
+    "wordType": "normal",
+    "word": "アユミ",
+    "first": "あ",
+    "last": "み"
+  },
+  {
+    "id": 463,
+    "img": "462.png",
+    "wordType": "princess",
+    "word": "モブ",
+    "first": "も",
+    "last": "ぶ"
+  },
+  {
+    "id": 464,
+    "img": "464.png",
+    "wordType": "normal",
+    "word": "ルカ",
+    "first": "る",
+    "last": "か"
+  },
+  {
+    "id": 465,
+    "img": "464.png",
+    "wordType": "princess",
+    "word": "あねご",
+    "first": "あ",
+    "last": "ご"
+  },
+  {
+    "id": 466,
+    "img": "466.png",
+    "wordType": "normal",
+    "word": "ジータ",
+    "first": "じ",
+    "last": "た"
+  },
+  {
+    "id": 467,
+    "img": "466.png",
+    "wordType": "princess",
+    "word": "きくうし",
+    "first": "き",
+    "last": "し"
+  },
+  {
+    "id": 468,
+    "img": "468.png",
+    "wordType": "normal",
+    "word": "ペコリーヌ",
+    "first": "ぺ",
+    "last": "ぬ"
+  },
+  {
+    "id": 469,
+    "img": "468.png",
+    "wordType": "princess",
+    "word": "くいしんぼう",
+    "first": "く",
+    "last": "う"
+  },
+  {
+    "id": 470,
+    "img": "468.png",
+    "wordType": "princess",
+    "word": "おうけのそうび",
+    "first": "お",
+    "last": "び"
+  },
+  {
+    "id": 471,
+    "img": "468.png",
+    "wordType": "princess",
+    "word": "ヤバイですね",
+    "first": "や",
+    "last": "ね"
+  },
+  {
+    "id": 472,
+    "img": "468.png",
+    "wordType": "princess",
+    "word": "プリンセス",
+    "first": "ぷ",
+    "last": "す"
+  },
+  {
+    "id": 473,
+    "img": "473.png",
+    "wordType": "normal",
+    "word": "コッコロ",
+    "first": "こ",
+    "last": "ろ"
+  },
+  {
+    "id": 474,
+    "img": "473.png",
+    "wordType": "princess",
+    "word": "ガイドやく",
+    "first": "が",
+    "last": "く"
+  },
+  {
+    "id": 475,
+    "img": "473.png",
+    "wordType": "princess",
+    "word": "みこ",
+    "first": "み",
+    "last": "こ"
+  },
+  {
+    "id": 476,
+    "img": "476.png",
+    "wordType": "normal",
+    "word": "キャル",
+    "first": "き",
+    "last": "る"
+  },
+  {
+    "id": 477,
+    "img": "476.png",
+    "wordType": "princess",
+    "word": "ツンデレ",
+    "first": "つ",
+    "last": "れ"
+  },
+  {
+    "id": 478,
+    "img": "476.png",
+    "wordType": "princess",
+    "word": "ヤバイわよ",
+    "first": "や",
+    "last": "よ"
+  },
+  {
+    "id": 479,
+    "img": "479.png",
+    "wordType": "normal",
+    "word": "ムイミ",
+    "first": "む",
+    "last": "み"
+  },
+  {
+    "id": 480,
+    "img": "479.png",
+    "wordType": "princess",
+    "word": "ノウェム",
+    "first": "の",
+    "last": "む"
+  },
+  {
+    "id": 481,
+    "img": "481.png",
+    "wordType": "normal",
+    "word": "アリサ",
+    "first": "あ",
+    "last": "さ"
+  },
+  {
+    "id": 482,
+    "img": "481.png",
+    "wordType": "princess",
+    "word": "エルフのおんな",
+    "first": "え",
+    "last": "な"
+  },
+  {
+    "id": 483,
+    "img": "481.png",
+    "wordType": "princess",
+    "word": "もりばんみならい",
+    "first": "も",
+    "last": "い"
+  },
+  {
+    "id": 484,
+    "img": "484.png",
+    "wordType": "normal",
+    "word": "ネネカ",
+    "first": "ね",
+    "last": "か"
+  },
+  {
+    "id": 485,
+    "img": "484.png",
+    "wordType": "princess",
+    "word": "メタモルレグナント",
+    "first": "め",
+    "last": "と"
+  },
+  {
+    "id": 486,
+    "img": "484.png",
+    "wordType": "princess",
+    "word": "ぶんしんたい",
+    "first": "ぶ",
+    "last": "い"
+  },
+  {
+    "id": 487,
+    "img": "487.png",
+    "wordType": "normal",
+    "word": "クリスティーナ",
+    "first": "く",
+    "last": "な"
+  },
+  {
+    "id": 488,
+    "img": "487.png",
+    "wordType": "princess",
+    "word": "レジーナゲッシュ",
+    "first": "れ",
+    "last": "ゆ"
+  },
+  {
+    "id": 489,
+    "img": "487.png",
+    "wordType": "princess",
+    "word": "ふくだんちょう",
+    "first": "ふ",
+    "last": "う"
+  },
+  {
+    "id": 490,
+    "img": "490.png",
+    "wordType": "normal",
+    "word": "イノリ",
+    "first": "い",
+    "last": "り"
+  },
+  {
+    "id": 491,
+    "img": "490.png",
+    "wordType": "princess",
+    "word": "ドラゴンブレス",
+    "first": "ど",
+    "last": "す"
+  },
+  {
+    "id": 492,
+    "img": "490.png",
+    "wordType": "princess",
+    "word": "かんぶ",
+    "first": "か",
+    "last": "ぶ"
+  },
+  {
+    "id": 493,
+    "img": "493.png",
+    "wordType": "normal",
+    "word": "カヤ",
+    "first": "か",
+    "last": "や"
+  },
+  {
+    "id": 494,
+    "img": "493.png",
+    "wordType": "princess",
+    "word": "のうきんケンカバカ",
+    "first": "の",
+    "last": "か"
+  },
+  {
+    "id": 495,
+    "img": "495.png",
+    "wordType": "normal",
+    "word": "ホマレ",
+    "first": "ほ",
+    "last": "れ"
+  },
+  {
+    "id": 496,
+    "img": "495.png",
+    "wordType": "princess",
+    "word": "ギャングのボス",
+    "first": "ぎ",
+    "last": "す"
+  },
+  {
+    "id": 497,
+    "img": "497.png",
+    "wordType": "normal",
+    "word": "クロエ",
+    "first": "く",
+    "last": "え"
+  },
+  {
+    "id": 498,
+    "img": "497.png",
+    "wordType": "princess",
+    "word": "ダウナー",
+    "first": "だ",
+    "last": "な"
+  },
+  {
+    "id": 499,
+    "img": "497.png",
+    "wordType": "princess",
+    "word": "テレじょのやべーやつ",
+    "first": "て",
+    "last": "つ"
+  },
+  {
+    "id": 500,
+    "img": "500.png",
+    "wordType": "normal",
+    "word": "チエル",
+    "first": "ち",
+    "last": "る"
+  },
+  {
+    "id": 501,
+    "img": "500.png",
+    "wordType": "princess",
+    "word": "れちぇるちぇぽぱぴ",
+    "first": "れ",
+    "last": "ぴ"
+  },
+  {
+    "id": 502,
+    "img": "500.png",
+    "wordType": "princess",
+    "word": "テレじょのやべーやつ",
+    "first": "て",
+    "last": "つ"
+  },
+  {
+    "id": 503,
+    "img": "503.png",
+    "wordType": "normal",
+    "word": "ユニ",
+    "first": "ゆ",
+    "last": "に"
+  },
+  {
+    "id": 504,
+    "img": "503.png",
+    "wordType": "princess",
+    "word": "ひきこもり",
+    "first": "ひ",
+    "last": "り"
+  },
+  {
+    "id": 505,
+    "img": "503.png",
+    "wordType": "princess",
+    "word": "テレじょのやべーやつ",
+    "first": "て",
+    "last": "つ"
+  }
+]
