@@ -4038,5 +4038,1989 @@
     "word": "テレじょのやべーやつ",
     "first": "て",
     "last": "つ"
+  },
+    {
+    "id": 506,
+    "img": "506.png",
+    "wordType": "normal",
+    "word": "ロボット",
+    "first": "ろ",
+    "last": "と"
+  },
+  {
+    "id": 507,
+    "img": "506.png",
+    "wordType": "normal",
+    "word": "メカ",
+    "first": "め",
+    "last": "か"
+  },
+  {
+    "id": 508,
+    "img": "506.png",
+    "wordType": "normal",
+    "word": "からくり",
+    "first": "か",
+    "last": "り"
+  },
+  {
+    "id": 509,
+    "img": "506.png",
+    "wordType": "normal",
+    "word": "なかよしえっくす",
+    "first": "な",
+    "last": "す"
+  },
+  {
+    "id": 510,
+    "img": "506.png",
+    "wordType": "normal",
+    "word": "ユニのりきさく",
+    "first": "ゆ",
+    "last": "く"
+  },
+  {
+    "id": 511,
+    "img": "511.png",
+    "wordType": "normal",
+    "word": "きのこ",
+    "first": "き",
+    "last": "こ"
+  },
+  {
+    "id": 512,
+    "img": "511.png",
+    "wordType": "normal",
+    "word": "どくきのこ",
+    "first": "ど",
+    "last": "こ"
+  },
+  {
+    "id": 513,
+    "img": "511.png",
+    "wordType": "normal",
+    "word": "マッシュルーム",
+    "first": "ま",
+    "last": "む"
+  },
+  {
+    "id": 514,
+    "img": "511.png",
+    "wordType": "normal",
+    "word": "ベニタケ",
+    "first": "べ",
+    "last": "け"
+  },
+  {
+    "id": 515,
+    "img": "515.png",
+    "wordType": "normal",
+    "word": "ライオン",
+    "first": "ら",
+    "last": "ん"
+  },
+  {
+    "id": 516,
+    "img": "515.png",
+    "wordType": "normal",
+    "word": "しし",
+    "first": "し",
+    "last": "し"
+  },
+  {
+    "id": 517,
+    "img": "515.png",
+    "wordType": "normal",
+    "word": "ひゃくじゅうのおう",
+    "first": "ひ",
+    "last": "う"
+  },
+  {
+    "id": 518,
+    "img": "515.png",
+    "wordType": "normal",
+    "word": "たてがみ",
+    "first": "た",
+    "last": "み"
+  },
+  {
+    "id": 519,
+    "img": "515.png",
+    "wordType": "normal",
+    "word": "けもの",
+    "first": "け",
+    "last": "の"
+  },
+  {
+    "id": 520,
+    "img": "515.png",
+    "wordType": "normal",
+    "word": "オルレオン",
+    "first": "お",
+    "last": "ん"
+  },
+  {
+    "id": 521,
+    "img": "521.png",
+    "wordType": "normal",
+    "word": "えんぴつ",
+    "first": "え",
+    "last": "つ"
+  },
+  {
+    "id": 522,
+    "img": "521.png",
+    "wordType": "normal",
+    "word": "あかえんぴつ",
+    "first": "あ",
+    "last": "つ"
+  },
+  {
+    "id": 523,
+    "img": "521.png",
+    "wordType": "normal",
+    "word": "ペンシル",
+    "first": "ぺ",
+    "last": "る"
+  },
+  {
+    "id": 524,
+    "img": "521.png",
+    "wordType": "normal",
+    "word": "ひっきようぐ",
+    "first": "ひ",
+    "last": "ぐ"
+  },
+  {
+    "id": 525,
+    "img": "521.png",
+    "wordType": "normal",
+    "word": "キラーペンシル",
+    "first": "き",
+    "last": "る"
+  },
+  {
+    "id": 526,
+    "img": "526.png",
+    "wordType": "normal",
+    "word": "たいよう",
+    "first": "た",
+    "last": "う"
+  },
+  {
+    "id": 527,
+    "img": "526.png",
+    "wordType": "normal",
+    "word": "おひさま",
+    "first": "お",
+    "last": "ま"
+  },
+  {
+    "id": 528,
+    "img": "526.png",
+    "wordType": "normal",
+    "word": "にっこう",
+    "first": "に",
+    "last": "う"
+  },
+  {
+    "id": 529,
+    "img": "526.png",
+    "wordType": "normal",
+    "word": "はれのひ",
+    "first": "は",
+    "last": "ひ"
+  },
+  {
+    "id": 530,
+    "img": "530.png",
+    "wordType": "normal",
+    "word": "ひこうてい",
+    "first": "ひ",
+    "last": "い"
+  },
+  {
+    "id": 531,
+    "img": "530.png",
+    "wordType": "normal",
+    "word": "ふね",
+    "first": "ふ",
+    "last": "ね"
+  },
+  {
+    "id": 532,
+    "img": "530.png",
+    "wordType": "normal",
+    "word": "エアシップ",
+    "first": "え",
+    "last": "ぷ"
+  },
+  {
+    "id": 533,
+    "img": "530.png",
+    "wordType": "normal",
+    "word": "そらのたび",
+    "first": "そ",
+    "last": "び"
+  },
+  {
+    "id": 534,
+    "img": "530.png",
+    "wordType": "normal",
+    "word": "モニカのかんたい",
+    "first": "も",
+    "last": "い"
+  },
+  {
+    "id": 535,
+    "img": "535.png",
+    "wordType": "normal",
+    "word": "バラ",
+    "first": "ば",
+    "last": "ら"
+  },
+  {
+    "id": 536,
+    "img": "535.png",
+    "wordType": "normal",
+    "word": "いばら",
+    "first": "い",
+    "last": "ら"
+  },
+  {
+    "id": 537,
+    "img": "535.png",
+    "wordType": "normal",
+    "word": "はな",
+    "first": "は",
+    "last": "な"
+  },
+  {
+    "id": 538,
+    "img": "535.png",
+    "wordType": "normal",
+    "word": "ローズ",
+    "first": "ろ",
+    "last": "ず"
+  },
+  {
+    "id": 539,
+    "img": "539.png",
+    "wordType": "normal",
+    "word": "すし",
+    "first": "す",
+    "last": "し"
+  },
+  {
+    "id": 540,
+    "img": "539.png",
+    "wordType": "normal",
+    "word": "にぎりずし",
+    "first": "に",
+    "last": "し"
+  },
+  {
+    "id": 541,
+    "img": "539.png",
+    "wordType": "normal",
+    "word": "マグロ",
+    "first": "ま",
+    "last": "ろ"
+  },
+  {
+    "id": 542,
+    "img": "539.png",
+    "wordType": "normal",
+    "word": "トゥンヌスのにぎり",
+    "first": "と",
+    "last": "り"
+  },
+  {
+    "id": 543,
+    "img": "539.png",
+    "wordType": "normal",
+    "word": "オーマのびしょく",
+    "first": "お",
+    "last": "く"
+  },
+  {
+    "id": 544,
+    "img": "544.png",
+    "wordType": "normal",
+    "word": "かがみ",
+    "first": "か",
+    "last": "み"
+  },
+  {
+    "id": 545,
+    "img": "544.png",
+    "wordType": "normal",
+    "word": "ミラー",
+    "first": "み",
+    "last": "ら"
+  },
+  {
+    "id": 546,
+    "img": "544.png",
+    "wordType": "normal",
+    "word": "エチケットアイテム",
+    "first": "え",
+    "last": "む"
+  },
+  {
+    "id": 547,
+    "img": "544.png",
+    "wordType": "normal",
+    "word": "ユキのあいようひん",
+    "first": "ゆ",
+    "last": "ん"
+  },
+  {
+    "id": 548,
+    "img": "548.png",
+    "wordType": "normal",
+    "word": "ティアラ",
+    "first": "て",
+    "last": "ら"
+  },
+  {
+    "id": 549,
+    "img": "548.png",
+    "wordType": "normal",
+    "word": "かんむり",
+    "first": "か",
+    "last": "り"
+  },
+  {
+    "id": 550,
+    "img": "548.png",
+    "wordType": "normal",
+    "word": "そうしょくひん",
+    "first": "そ",
+    "last": "ん"
+  },
+  {
+    "id": 551,
+    "img": "548.png",
+    "wordType": "normal",
+    "word": "アクセサリー",
+    "first": "あ",
+    "last": "り"
+  },
+  {
+    "id": 552,
+    "img": "548.png",
+    "wordType": "normal",
+    "word": "ペコリーヌのティアラ",
+    "first": "ぺ",
+    "last": "ら"
+  },
+  {
+    "id": 553,
+    "img": "548.png",
+    "wordType": "normal",
+    "word": "おうけのそうび",
+    "first": "お",
+    "last": "び"
+  },
+  {
+    "id": 554,
+    "img": "554.png",
+    "wordType": "normal",
+    "word": " おでん",
+    "first": " ",
+    "last": "ん"
+  },
+  {
+    "id": 555,
+    "img": "554.png",
+    "wordType": "normal",
+    "word": "にもの",
+    "first": "に",
+    "last": "の"
+  },
+  {
+    "id": 556,
+    "img": "554.png",
+    "wordType": "normal",
+    "word": "なべ",
+    "first": "な",
+    "last": "べ"
+  },
+  {
+    "id": 557,
+    "img": "554.png",
+    "wordType": "normal",
+    "word": "ドラゴンテイルおでん",
+    "first": "ど",
+    "last": "ん"
+  },
+  {
+    "id": 558,
+    "img": "558.png",
+    "wordType": "normal",
+    "word": "でんきゅう",
+    "first": "で",
+    "last": "う"
+  },
+  {
+    "id": 559,
+    "img": "558.png",
+    "wordType": "normal",
+    "word": "あかり",
+    "first": "あ",
+    "last": "り"
+  },
+  {
+    "id": 560,
+    "img": "558.png",
+    "wordType": "normal",
+    "word": "はくねつきゅう",
+    "first": "は",
+    "last": "う"
+  },
+  {
+    "id": 561,
+    "img": "558.png",
+    "wordType": "normal",
+    "word": "まめでんきゅう",
+    "first": "ま",
+    "last": "う"
+  },
+  {
+    "id": 562,
+    "img": "558.png",
+    "wordType": "normal",
+    "word": "ピカピカ",
+    "first": "ぴ",
+    "last": "か"
+  },
+  {
+    "id": 563,
+    "img": "558.png",
+    "wordType": "normal",
+    "word": "カスミのひらめき",
+    "first": "か",
+    "last": "き"
+  },
+  {
+    "id": 564,
+    "img": "564.png",
+    "wordType": "normal",
+    "word": "くも",
+    "first": "く",
+    "last": "も"
+  },
+  {
+    "id": 565,
+    "img": "564.png",
+    "wordType": "normal",
+    "word": "にゅうどうぐも",
+    "first": "に",
+    "last": "も"
+  },
+  {
+    "id": 566,
+    "img": "564.png",
+    "wordType": "normal",
+    "word": "どんてん",
+    "first": "ど",
+    "last": "ん"
+  },
+  {
+    "id": 567,
+    "img": "564.png",
+    "wordType": "normal",
+    "word": "わたあめ",
+    "first": "わ",
+    "last": "め"
+  },
+  {
+    "id": 568,
+    "img": "564.png",
+    "wordType": "normal",
+    "word": "ライライ",
+    "first": "ら",
+    "last": "い"
+  },
+  {
+    "id": 569,
+    "img": "569.png",
+    "wordType": "normal",
+    "word": "おの",
+    "first": "お",
+    "last": "の"
+  },
+  {
+    "id": 570,
+    "img": "569.png",
+    "wordType": "normal",
+    "word": "いしおの",
+    "first": "い",
+    "last": "の"
+  },
+  {
+    "id": 571,
+    "img": "569.png",
+    "wordType": "normal",
+    "word": "アックス",
+    "first": "あ",
+    "last": "す"
+  },
+  {
+    "id": 572,
+    "img": "569.png",
+    "wordType": "normal",
+    "word": "ゴブリングレートのえもの",
+    "first": "ご",
+    "last": "の"
+  },
+  {
+    "id": 573,
+    "img": "573.png",
+    "wordType": "normal",
+    "word": "おんせん",
+    "first": "お",
+    "last": "ん"
+  },
+  {
+    "id": 574,
+    "img": "573.png",
+    "wordType": "normal",
+    "word": "いわぶろ",
+    "first": "い",
+    "last": "ろ"
+  },
+  {
+    "id": 575,
+    "img": "573.png",
+    "wordType": "normal",
+    "word": "ろてんぶろ",
+    "first": "ろ",
+    "last": "ろ"
+  },
+  {
+    "id": 576,
+    "img": "573.png",
+    "wordType": "normal",
+    "word": "めいとう",
+    "first": "め",
+    "last": "う"
+  },
+  {
+    "id": 577,
+    "img": "573.png",
+    "wordType": "normal",
+    "word": "クリスティーナリゾートスパ",
+    "first": "く",
+    "last": "ぱ"
+  },
+  {
+    "id": 578,
+    "img": "578.png",
+    "wordType": "normal",
+    "word": "まくら",
+    "first": "ま",
+    "last": "ら"
+  },
+  {
+    "id": 579,
+    "img": "578.png",
+    "wordType": "normal",
+    "word": "だきまくら",
+    "first": "だ",
+    "last": "ら"
+  },
+  {
+    "id": 580,
+    "img": "578.png",
+    "wordType": "normal",
+    "word": "しんぐ",
+    "first": "し",
+    "last": "ぐ"
+  },
+  {
+    "id": 581,
+    "img": "578.png",
+    "wordType": "normal",
+    "word": "ピロー",
+    "first": "ぴ",
+    "last": "ろ"
+  },
+  {
+    "id": 582,
+    "img": "578.png",
+    "wordType": "normal",
+    "word": "ハツネのたからもの",
+    "first": "は",
+    "last": "の"
+  },
+  {
+    "id": 583,
+    "img": "583.png",
+    "wordType": "normal",
+    "word": "ざっし",
+    "first": "ざ",
+    "last": "し"
+  },
+  {
+    "id": 584,
+    "img": "583.png",
+    "wordType": "normal",
+    "word": "マガジン",
+    "first": "ま",
+    "last": "ん"
+  },
+  {
+    "id": 585,
+    "img": "583.png",
+    "wordType": "normal",
+    "word": "ファッションし",
+    "first": "ふ",
+    "last": "し"
+  },
+  {
+    "id": 586,
+    "img": "583.png",
+    "wordType": "normal",
+    "word": "スズナのしゃしんしゅう",
+    "first": "す",
+    "last": "う"
+  },
+  {
+    "id": 587,
+    "img": "587.png",
+    "wordType": "normal",
+    "word": "たいこ",
+    "first": "た",
+    "last": "こ"
+  },
+  {
+    "id": 588,
+    "img": "587.png",
+    "wordType": "normal",
+    "word": "こだいこ",
+    "first": "こ",
+    "last": "こ"
+  },
+  {
+    "id": 589,
+    "img": "587.png",
+    "wordType": "normal",
+    "word": "ドラム",
+    "first": "ど",
+    "last": "む"
+  },
+  {
+    "id": 590,
+    "img": "587.png",
+    "wordType": "normal",
+    "word": "スネアドラム",
+    "first": "す",
+    "last": "む"
+  },
+  {
+    "id": 591,
+    "img": "587.png",
+    "wordType": "normal",
+    "word": "だがっき",
+    "first": "だ",
+    "last": "き"
+  },
+  {
+    "id": 592,
+    "img": "592.png",
+    "wordType": "normal",
+    "word": "せいざ",
+    "first": "せ",
+    "last": "ざ"
+  },
+  {
+    "id": 593,
+    "img": "592.png",
+    "wordType": "normal",
+    "word": "てんたい",
+    "first": "て",
+    "last": "い"
+  },
+  {
+    "id": 594,
+    "img": "592.png",
+    "wordType": "normal",
+    "word": "ぎんが",
+    "first": "ぎ",
+    "last": "が"
+  },
+  {
+    "id": 595,
+    "img": "592.png",
+    "wordType": "normal",
+    "word": "よぞら",
+    "first": "よ",
+    "last": "ら"
+  },
+  {
+    "id": 596,
+    "img": "592.png",
+    "wordType": "normal",
+    "word": "ほしのかがやき",
+    "first": "ほ",
+    "last": "き"
+  },
+  {
+    "id": 597,
+    "img": "592.png",
+    "wordType": "normal",
+    "word": "おにぎりざ",
+    "first": "お",
+    "last": "ざ"
+  },
+  {
+    "id": 598,
+    "img": "598.png",
+    "wordType": "normal",
+    "word": "トマト",
+    "first": "と",
+    "last": "と"
+  },
+  {
+    "id": 599,
+    "img": "598.png",
+    "wordType": "normal",
+    "word": "プチトマト",
+    "first": "ぷ",
+    "last": "と"
+  },
+  {
+    "id": 600,
+    "img": "598.png",
+    "wordType": "normal",
+    "word": "ばんか",
+    "first": "ば",
+    "last": "か"
+  },
+  {
+    "id": 601,
+    "img": "598.png",
+    "wordType": "normal",
+    "word": "ケチャップ",
+    "first": "け",
+    "last": "ぷ"
+  },
+  {
+    "id": 602,
+    "img": "602.png",
+    "wordType": "normal",
+    "word": "はらっぱ",
+    "first": "は",
+    "last": "ぱ"
+  },
+  {
+    "id": 603,
+    "img": "602.png",
+    "wordType": "normal",
+    "word": "そうげん",
+    "first": "そ",
+    "last": "ん"
+  },
+  {
+    "id": 604,
+    "img": "602.png",
+    "wordType": "normal",
+    "word": "のはら",
+    "first": "の",
+    "last": "ら"
+  },
+  {
+    "id": 605,
+    "img": "605.png",
+    "wordType": "normal",
+    "word": "にじ",
+    "first": "に",
+    "last": "じ"
+  },
+  {
+    "id": 606,
+    "img": "605.png",
+    "wordType": "normal",
+    "word": "レインボー",
+    "first": "れ",
+    "last": "ぼ"
+  },
+  {
+    "id": 607,
+    "img": "605.png",
+    "wordType": "normal",
+    "word": "なないろ",
+    "first": "な",
+    "last": "ろ"
+  },
+  {
+    "id": 608,
+    "img": "605.png",
+    "wordType": "normal",
+    "word": "そらにかかるはし",
+    "first": "そ",
+    "last": "し"
+  },
+  {
+    "id": 609,
+    "img": "605.png",
+    "wordType": "normal",
+    "word": "あめあがり",
+    "first": "あ",
+    "last": "り"
+  },
+  {
+    "id": 610,
+    "img": "610.png",
+    "wordType": "normal",
+    "word": "かきごおり",
+    "first": "か",
+    "last": "り"
+  },
+  {
+    "id": 611,
+    "img": "610.png",
+    "wordType": "normal",
+    "word": "ブルーハワイ",
+    "first": "ぶ",
+    "last": "い"
+  },
+  {
+    "id": 612,
+    "img": "610.png",
+    "wordType": "normal",
+    "word": "フラッペ",
+    "first": "ふ",
+    "last": "ぺ"
+  },
+  {
+    "id": 613,
+    "img": "610.png",
+    "wordType": "normal",
+    "word": "なつのふうぶつし",
+    "first": "な",
+    "last": "し"
+  },
+  {
+    "id": 614,
+    "img": "614.png",
+    "wordType": "normal",
+    "word": "ちょうちょ",
+    "first": "ち",
+    "last": "よ"
+  },
+  {
+    "id": 615,
+    "img": "614.png",
+    "wordType": "normal",
+    "word": "アゲハ",
+    "first": "あ",
+    "last": "は"
+  },
+  {
+    "id": 616,
+    "img": "614.png",
+    "wordType": "normal",
+    "word": "クロアゲハ",
+    "first": "く",
+    "last": "は"
+  },
+  {
+    "id": 617,
+    "img": "614.png",
+    "wordType": "normal",
+    "word": "むし",
+    "first": "む",
+    "last": "し"
+  },
+  {
+    "id": 618,
+    "img": "614.png",
+    "wordType": "normal",
+    "word": "こんちゅう",
+    "first": "こ",
+    "last": "う"
+  },
+  {
+    "id": 619,
+    "img": "614.png",
+    "wordType": "normal",
+    "word": "バタフライ",
+    "first": "ば",
+    "last": "い"
+  },
+  {
+    "id": 620,
+    "img": "620.png",
+    "wordType": "normal",
+    "word": "とう",
+    "first": "と",
+    "last": "う"
+  },
+  {
+    "id": 621,
+    "img": "620.png",
+    "wordType": "normal",
+    "word": "タワー",
+    "first": "た",
+    "last": "わ"
+  },
+  {
+    "id": 622,
+    "img": "620.png",
+    "wordType": "normal",
+    "word": "てんぼうだい",
+    "first": "て",
+    "last": "い"
+  },
+  {
+    "id": 623,
+    "img": "620.png",
+    "wordType": "normal",
+    "word": "みはりだい",
+    "first": "み",
+    "last": "い"
+  },
+  {
+    "id": 624,
+    "img": "620.png",
+    "wordType": "normal",
+    "word": "まてんろう",
+    "first": "ま",
+    "last": "う"
+  },
+  {
+    "id": 625,
+    "img": "625.png",
+    "wordType": "normal",
+    "word": "アイスクリーム",
+    "first": "あ",
+    "last": "む"
+  },
+  {
+    "id": 626,
+    "img": "625.png",
+    "wordType": "normal",
+    "word": "ジェラート",
+    "first": "じ",
+    "last": "と"
+  },
+  {
+    "id": 627,
+    "img": "625.png",
+    "wordType": "normal",
+    "word": "チョコミントアイス",
+    "first": "ち",
+    "last": "す"
+  },
+  {
+    "id": 628,
+    "img": "625.png",
+    "wordType": "normal",
+    "word": "ひょうか",
+    "first": "ひ",
+    "last": "か"
+  },
+  {
+    "id": 629,
+    "img": "625.png",
+    "wordType": "normal",
+    "word": "シェフィのこうぶつ",
+    "first": "し",
+    "last": "つ"
+  },
+  {
+    "id": 630,
+    "img": "630.png",
+    "wordType": "normal",
+    "word": "ドーナツ",
+    "first": "ど",
+    "last": "つ"
+  },
+  {
+    "id": 631,
+    "img": "630.png",
+    "wordType": "normal",
+    "word": "おやつ",
+    "first": "お",
+    "last": "つ"
+  },
+  {
+    "id": 632,
+    "img": "630.png",
+    "wordType": "normal",
+    "word": "チョコドーナツ",
+    "first": "ち",
+    "last": "つ"
+  },
+  {
+    "id": 633,
+    "img": "633.png",
+    "wordType": "normal",
+    "word": "チケット",
+    "first": "ち",
+    "last": "と"
+  },
+  {
+    "id": 634,
+    "img": "633.png",
+    "wordType": "normal",
+    "word": "けん",
+    "first": "け",
+    "last": "ん"
+  },
+  {
+    "id": 635,
+    "img": "633.png",
+    "wordType": "normal",
+    "word": "スキップチケット",
+    "first": "す",
+    "last": "と"
+  },
+  {
+    "id": 636,
+    "img": "636.png",
+    "wordType": "normal",
+    "word": "うきわ",
+    "first": "う",
+    "last": "わ"
+  },
+  {
+    "id": 637,
+    "img": "636.png",
+    "wordType": "normal",
+    "word": "フロート",
+    "first": "ふ",
+    "last": "と"
+  },
+  {
+    "id": 638,
+    "img": "636.png",
+    "wordType": "normal",
+    "word": "かなづちのひっすアイテム",
+    "first": "か",
+    "last": "む"
+  },
+  {
+    "id": 639,
+    "img": "636.png",
+    "wordType": "normal",
+    "word": "キャルのうきわ",
+    "first": "き",
+    "last": "わ"
+  },
+  {
+    "id": 640,
+    "img": "640.png",
+    "wordType": "normal",
+    "word": "サングラス",
+    "first": "さ",
+    "last": "す"
+  },
+  {
+    "id": 641,
+    "img": "640.png",
+    "wordType": "normal",
+    "word": "グラサン",
+    "first": "ぐ",
+    "last": "ん"
+  },
+  {
+    "id": 642,
+    "img": "640.png",
+    "wordType": "normal",
+    "word": "くろめがね",
+    "first": "く",
+    "last": "ね"
+  },
+  {
+    "id": 643,
+    "img": "640.png",
+    "wordType": "normal",
+    "word": "ハードボイルド",
+    "first": "は",
+    "last": "ど"
+  },
+  {
+    "id": 644,
+    "img": "640.png",
+    "wordType": "normal",
+    "word": "キャルのサングラス",
+    "first": "き",
+    "last": "す"
+  },
+  {
+    "id": 645,
+    "img": "645.png",
+    "wordType": "normal",
+    "word": "しゅりけん",
+    "first": "し",
+    "last": "ん"
+  },
+  {
+    "id": 646,
+    "img": "645.png",
+    "wordType": "normal",
+    "word": "とびどうぐ",
+    "first": "と",
+    "last": "ぐ"
+  },
+  {
+    "id": 647,
+    "img": "645.png",
+    "wordType": "normal",
+    "word": "にんじゃ",
+    "first": "に",
+    "last": "や"
+  },
+  {
+    "id": 648,
+    "img": "645.png",
+    "wordType": "normal",
+    "word": "オーエドのみやげもの",
+    "first": "お",
+    "last": "の"
+  },
+  {
+    "id": 649,
+    "img": "649.png",
+    "wordType": "normal",
+    "word": "いえ",
+    "first": "い",
+    "last": "え"
+  },
+  {
+    "id": 650,
+    "img": "649.png",
+    "wordType": "normal",
+    "word": "おうち",
+    "first": "お",
+    "last": "ち"
+  },
+  {
+    "id": 651,
+    "img": "649.png",
+    "wordType": "normal",
+    "word": "ハウス",
+    "first": "は",
+    "last": "す"
+  },
+  {
+    "id": 652,
+    "img": "649.png",
+    "wordType": "normal",
+    "word": "たてもの",
+    "first": "た",
+    "last": "の"
+  },
+  {
+    "id": 653,
+    "img": "649.png",
+    "wordType": "normal",
+    "word": "ギルドハウス",
+    "first": "ぎ",
+    "last": "す"
+  },
+  {
+    "id": 654,
+    "img": "654.png",
+    "wordType": "normal",
+    "word": "おにぎり",
+    "first": "お",
+    "last": "り"
+  },
+  {
+    "id": 655,
+    "img": "654.png",
+    "wordType": "normal",
+    "word": "ライスボール",
+    "first": "ら",
+    "last": "る"
+  },
+  {
+    "id": 656,
+    "img": "654.png",
+    "wordType": "normal",
+    "word": "むげんおにぎり",
+    "first": "む",
+    "last": "り"
+  },
+  {
+    "id": 657,
+    "img": "654.png",
+    "wordType": "normal",
+    "word": "ペコリーヌのこうぶつ",
+    "first": "ぺ",
+    "last": "つ"
+  },
+  {
+    "id": 658,
+    "img": "658.png",
+    "wordType": "normal",
+    "word": "ピーマン",
+    "first": "ぴ",
+    "last": "ん"
+  },
+  {
+    "id": 659,
+    "img": "658.png",
+    "wordType": "normal",
+    "word": "パプリカ",
+    "first": "ぱ",
+    "last": "か"
+  },
+  {
+    "id": 660,
+    "img": "658.png",
+    "wordType": "normal",
+    "word": "りょくおうしょくやさい",
+    "first": "り",
+    "last": "い"
+  },
+  {
+    "id": 661,
+    "img": "658.png",
+    "wordType": "normal",
+    "word": "キョウカのにがてなもの",
+    "first": "き",
+    "last": "の"
+  },
+  {
+    "id": 662,
+    "img": "662.png",
+    "wordType": "normal",
+    "word": "くり",
+    "first": "く",
+    "last": "り"
+  },
+  {
+    "id": 663,
+    "img": "662.png",
+    "wordType": "normal",
+    "word": "マロン",
+    "first": "ま",
+    "last": "ん"
+  },
+  {
+    "id": 664,
+    "img": "662.png",
+    "wordType": "normal",
+    "word": "イガイガ",
+    "first": "い",
+    "last": "が"
+  },
+  {
+    "id": 665,
+    "img": "662.png",
+    "wordType": "normal",
+    "word": "あきのみかく",
+    "first": "あ",
+    "last": "く"
+  },
+  {
+    "id": 666,
+    "img": "666.png",
+    "wordType": "normal",
+    "word": "やきいも",
+    "first": "や",
+    "last": "も"
+  },
+  {
+    "id": 667,
+    "img": "666.png",
+    "wordType": "normal",
+    "word": "サツマイモ",
+    "first": "さ",
+    "last": "も"
+  },
+  {
+    "id": 668,
+    "img": "666.png",
+    "wordType": "normal",
+    "word": "スイートポテト",
+    "first": "す",
+    "last": "と"
+  },
+  {
+    "id": 669,
+    "img": "666.png",
+    "wordType": "normal",
+    "word": "あきのみかく",
+    "first": "あ",
+    "last": "く"
+  },
+  {
+    "id": 670,
+    "img": "666.png",
+    "wordType": "normal",
+    "word": "ほかほかやきたて",
+    "first": "ほ",
+    "last": "て"
+  },
+  {
+    "id": 671,
+    "img": "671.png",
+    "wordType": "normal",
+    "word": "とうがらし",
+    "first": "と",
+    "last": "し"
+  },
+  {
+    "id": 672,
+    "img": "671.png",
+    "wordType": "normal",
+    "word": "たかのつめ",
+    "first": "た",
+    "last": "め"
+  },
+  {
+    "id": 673,
+    "img": "671.png",
+    "wordType": "normal",
+    "word": "チリペッパー",
+    "first": "ち",
+    "last": "ぱ"
+  },
+  {
+    "id": 674,
+    "img": "671.png",
+    "wordType": "normal",
+    "word": "スパイス",
+    "first": "す",
+    "last": "す"
+  },
+  {
+    "id": 675,
+    "img": "671.png",
+    "wordType": "normal",
+    "word": "ドラゴンもどきのひのみ",
+    "first": "ど",
+    "last": "み"
+  },
+  {
+    "id": 676,
+    "img": "676.png",
+    "wordType": "normal",
+    "word": "エビ",
+    "first": "え",
+    "last": "び"
+  },
+  {
+    "id": 677,
+    "img": "676.png",
+    "wordType": "normal",
+    "word": "シュリンプ",
+    "first": "し",
+    "last": "ぷ"
+  },
+  {
+    "id": 678,
+    "img": "676.png",
+    "wordType": "normal",
+    "word": "うみのさち",
+    "first": "う",
+    "last": "ち"
+  },
+  {
+    "id": 679,
+    "img": "676.png",
+    "wordType": "normal",
+    "word": "とれたて",
+    "first": "と",
+    "last": "て"
+  },
+  {
+    "id": 680,
+    "img": "680.png",
+    "wordType": "normal",
+    "word": "スカート",
+    "first": "す",
+    "last": "と"
+  },
+  {
+    "id": 681,
+    "img": "680.png",
+    "wordType": "normal",
+    "word": "ミニスカート",
+    "first": "み",
+    "last": "と"
+  },
+  {
+    "id": 682,
+    "img": "680.png",
+    "wordType": "normal",
+    "word": "プリーツスカート",
+    "first": "ぷ",
+    "last": "と"
+  },
+  {
+    "id": 683,
+    "img": "683.png",
+    "wordType": "normal",
+    "word": "ズボン",
+    "first": "ず",
+    "last": "ん"
+  },
+  {
+    "id": 684,
+    "img": "683.png",
+    "wordType": "normal",
+    "word": "ボトムス",
+    "first": "ぼ",
+    "last": "す"
+  },
+  {
+    "id": 685,
+    "img": "683.png",
+    "wordType": "normal",
+    "word": "パンツ",
+    "first": "ぱ",
+    "last": "つ"
+  },
+  {
+    "id": 686,
+    "img": "683.png",
+    "wordType": "normal",
+    "word": "たんぱん",
+    "first": "た",
+    "last": "ん"
+  },
+  {
+    "id": 687,
+    "img": "687.png",
+    "wordType": "normal",
+    "word": "ひこうき",
+    "first": "ひ",
+    "last": "き"
+  },
+  {
+    "id": 688,
+    "img": "687.png",
+    "wordType": "normal",
+    "word": "プロペラ",
+    "first": "ぷ",
+    "last": "ら"
+  },
+  {
+    "id": 689,
+    "img": "687.png",
+    "wordType": "normal",
+    "word": "ラジコン",
+    "first": "ら",
+    "last": "ん"
+  },
+  {
+    "id": 690,
+    "img": "687.png",
+    "wordType": "normal",
+    "word": "エアプレーン",
+    "first": "え",
+    "last": "ん"
+  },
+  {
+    "id": 691,
+    "img": "691.png",
+    "wordType": "normal",
+    "word": "あめ",
+    "first": "あ",
+    "last": "め"
+  },
+  {
+    "id": 692,
+    "img": "691.png",
+    "wordType": "normal",
+    "word": "レイン",
+    "first": "れ",
+    "last": "ん"
+  },
+  {
+    "id": 693,
+    "img": "691.png",
+    "wordType": "normal",
+    "word": "うてん",
+    "first": "う",
+    "last": "ん"
+  },
+  {
+    "id": 694,
+    "img": "691.png",
+    "wordType": "normal",
+    "word": "おおあめ",
+    "first": "お",
+    "last": "め"
+  },
+  {
+    "id": 695,
+    "img": "695.png",
+    "wordType": "normal",
+    "word": "つえ",
+    "first": "つ",
+    "last": "え"
+  },
+  {
+    "id": 696,
+    "img": "695.png",
+    "wordType": "normal",
+    "word": "ステッキ",
+    "first": "す",
+    "last": "き"
+  },
+  {
+    "id": 697,
+    "img": "695.png",
+    "wordType": "normal",
+    "word": "まほうのつえ",
+    "first": "ま",
+    "last": "え"
+  },
+  {
+    "id": 698,
+    "img": "698.png",
+    "wordType": "normal",
+    "word": "やり",
+    "first": "や",
+    "last": "り"
+  },
+  {
+    "id": 699,
+    "img": "698.png",
+    "wordType": "normal",
+    "word": "スピア",
+    "first": "す",
+    "last": "あ"
+  },
+  {
+    "id": 700,
+    "img": "698.png",
+    "wordType": "normal",
+    "word": "ほこ",
+    "first": "ほ",
+    "last": "こ"
+  },
+  {
+    "id": 701,
+    "img": "698.png",
+    "wordType": "normal",
+    "word": "ながえ",
+    "first": "な",
+    "last": "え"
+  },
+  {
+    "id": 702,
+    "img": "702.png",
+    "wordType": "normal",
+    "word": "かぶと",
+    "first": "か",
+    "last": "と"
+  },
+  {
+    "id": 703,
+    "img": "702.png",
+    "wordType": "normal",
+    "word": "よろい",
+    "first": "よ",
+    "last": "い"
+  },
+  {
+    "id": 704,
+    "img": "702.png",
+    "wordType": "normal",
+    "word": "アーマー",
+    "first": "あ",
+    "last": "ま"
+  },
+  {
+    "id": 705,
+    "img": "702.png",
+    "wordType": "normal",
+    "word": "ぼうぐ",
+    "first": "ぼ",
+    "last": "ぐ"
+  },
+  {
+    "id": 706,
+    "img": "702.png",
+    "wordType": "normal",
+    "word": "おうきゅうきしだんのよろい",
+    "first": "お",
+    "last": "い"
+  },
+  {
+    "id": 707,
+    "img": "702.png",
+    "wordType": "normal",
+    "word": "リビングメイル",
+    "first": "り",
+    "last": "る"
+  },
+  {
+    "id": 708,
+    "img": "708.png",
+    "wordType": "normal",
+    "word": "かぎ",
+    "first": "か",
+    "last": "ぎ"
+  },
+  {
+    "id": 709,
+    "img": "708.png",
+    "wordType": "normal",
+    "word": "キー",
+    "first": "き",
+    "last": "き"
+  },
+  {
+    "id": 710,
+    "img": "708.png",
+    "wordType": "normal",
+    "word": "マスターキー",
+    "first": "ま",
+    "last": "き"
+  },
+  {
+    "id": 711,
+    "img": "711.png",
+    "wordType": "normal",
+    "word": "たからばこ",
+    "first": "た",
+    "last": "こ"
+  },
+  {
+    "id": 712,
+    "img": "711.png",
+    "wordType": "normal",
+    "word": "トレジャーボックス",
+    "first": "と",
+    "last": "す"
+  },
+  {
+    "id": 713,
+    "img": "711.png",
+    "wordType": "normal",
+    "word": "おたから",
+    "first": "お",
+    "last": "ら"
+  },
+  {
+    "id": 714,
+    "img": "711.png",
+    "wordType": "normal",
+    "word": "レアドロップ",
+    "first": "れ",
+    "last": "ぷ"
+  },
+  {
+    "id": 715,
+    "img": "715.png",
+    "wordType": "normal",
+    "word": "ドラゴン",
+    "first": "ど",
+    "last": "ん"
+  },
+  {
+    "id": 716,
+    "img": "715.png",
+    "wordType": "normal",
+    "word": "きょうりゅう",
+    "first": "き",
+    "last": "う"
+  },
+  {
+    "id": 717,
+    "img": "715.png",
+    "wordType": "normal",
+    "word": "ダイナソー",
+    "first": "だ",
+    "last": "そ"
+  },
+  {
+    "id": 718,
+    "img": "715.png",
+    "wordType": "normal",
+    "word": "でんせつのせいぶつ",
+    "first": "で",
+    "last": "つ"
+  },
+  {
+    "id": 719,
+    "img": "715.png",
+    "wordType": "normal",
+    "word": "ラースドラゴン",
+    "first": "ら",
+    "last": "ん"
+  },
+  {
+    "id": 720,
+    "img": "720.png",
+    "wordType": "normal",
+    "word": "もじ",
+    "first": "も",
+    "last": "じ"
+  },
+  {
+    "id": 721,
+    "img": "720.png",
+    "wordType": "normal",
+    "word": "ひらがな",
+    "first": "ひ",
+    "last": "な"
+  },
+  {
+    "id": 722,
+    "img": "720.png",
+    "wordType": "normal",
+    "word": "ちぇる",
+    "first": "ち",
+    "last": "る"
+  },
+  {
+    "id": 723,
+    "img": "723.png",
+    "wordType": "normal",
+    "word": "てかせ",
+    "first": "て",
+    "last": "せ"
+  },
+  {
+    "id": 724,
+    "img": "723.png",
+    "wordType": "normal",
+    "word": "あしかせ",
+    "first": "あ",
+    "last": "せ"
+  },
+  {
+    "id": 725,
+    "img": "723.png",
+    "wordType": "normal",
+    "word": "こうそくぐ",
+    "first": "こ",
+    "last": "ぐ"
+  },
+  {
+    "id": 726,
+    "img": "723.png",
+    "wordType": "normal",
+    "word": "クウカのおきにいり",
+    "first": "く",
+    "last": "り"
+  },
+  {
+    "id": 727,
+    "img": "727.png",
+    "wordType": "normal",
+    "word": "もん",
+    "first": "も",
+    "last": "ん"
+  },
+  {
+    "id": 728,
+    "img": "727.png",
+    "wordType": "normal",
+    "word": "こうもん",
+    "first": "こ",
+    "last": "ん"
+  },
+  {
+    "id": 729,
+    "img": "727.png",
+    "wordType": "normal",
+    "word": "てっぴ",
+    "first": "て",
+    "last": "ぴ"
+  },
+  {
+    "id": 730,
+    "img": "727.png",
+    "wordType": "normal",
+    "word": "セントテレサじょがくいん",
+    "first": "せ",
+    "last": "ん"
+  },
+  {
+    "id": 731,
+    "img": "731.png",
+    "wordType": "normal",
+    "word": "シェフィ",
+    "first": "し",
+    "last": "い"
+  },
+  {
+    "id": 732,
+    "img": "731.png",
+    "wordType": "normal",
+    "word": "ドラゴンぞくのしょうじょ",
+    "first": "ど",
+    "last": "よ"
+  },
+  {
+    "id": 733,
+    "img": "733.png",
+    "wordType": "normal",
+    "word": "カリン",
+    "first": "か",
+    "last": "ん"
+  },
+  {
+    "id": 734,
+    "img": "733.png",
+    "wordType": "normal",
+    "word": "ギルドかんりきょうかい",
+    "first": "ぎ",
+    "last": "い"
+  },
+  {
+    "id": 735,
+    "img": "733.png",
+    "wordType": "normal",
+    "word": "ナビゲーター",
+    "first": "な",
+    "last": "た"
+  },
+  {
+    "id": 736,
+    "img": "733.png",
+    "wordType": "normal",
+    "word": "クソメガネ",
+    "first": "く",
+    "last": "ね"
+  },
+  {
+    "id": 737,
+    "img": "737.png",
+    "wordType": "normal",
+    "word": "エルダークラウド",
+    "first": "え",
+    "last": "ど"
+  },
+  {
+    "id": 738,
+    "img": "737.png",
+    "wordType": "normal",
+    "word": "かみなりぐも",
+    "first": "か",
+    "last": "も"
+  },
+  {
+    "id": 739,
+    "img": "737.png",
+    "wordType": "normal",
+    "word": "ライライのてした",
+    "first": "ら",
+    "last": "た"
+  },
+  {
+    "id": 740,
+    "img": "740.png",
+    "wordType": "normal",
+    "word": "スリーピィオウル",
+    "first": "す",
+    "last": "る"
+  },
+  {
+    "id": 741,
+    "img": "740.png",
+    "wordType": "normal",
+    "word": "ふくろう",
+    "first": "ふ",
+    "last": "う"
+  },
+  {
+    "id": 742,
+    "img": "742.png",
+    "wordType": "normal",
+    "word": "ワッパダヌキ",
+    "first": "わ",
+    "last": "き"
+  },
+  {
+    "id": 743,
+    "img": "742.png",
+    "wordType": "normal",
+    "word": "たぬき",
+    "first": "た",
+    "last": "き"
+  },
+  {
+    "id": 744,
+    "img": "742.png",
+    "wordType": "normal",
+    "word": "こだぬき",
+    "first": "こ",
+    "last": "き"
+  },
+  {
+    "id": 745,
+    "img": "742.png",
+    "wordType": "normal",
+    "word": "ちゃがま",
+    "first": "ち",
+    "last": "ま"
+  },
+  {
+    "id": 746,
+    "img": "742.png",
+    "wordType": "normal",
+    "word": "マスターセンリのこぶん",
+    "first": "ま",
+    "last": "ん"
+  },
+  {
+    "id": 747,
+    "img": "747.png",
+    "wordType": "normal",
+    "word": "ゴーレム",
+    "first": "ご",
+    "last": "む"
+  },
+  {
+    "id": 748,
+    "img": "747.png",
+    "wordType": "normal",
+    "word": "かんせきのまもの",
+    "first": "か",
+    "last": "の"
+  },
+  {
+    "id": 749,
+    "img": "747.png",
+    "wordType": "normal",
+    "word": "スズメのおともだち",
+    "first": "す",
+    "last": "ち"
+  },
+  {
+    "id": 750,
+    "img": "750.png",
+    "wordType": "normal",
+    "word": "モーラ",
+    "first": "も",
+    "last": "ら"
+  },
+  {
+    "id": 751,
+    "img": "750.png",
+    "wordType": "normal",
+    "word": "まほうせいぶつ",
+    "first": "ま",
+    "last": "つ"
+  },
+  {
+    "id": 752,
+    "img": "750.png",
+    "wordType": "normal",
+    "word": "ラブリーモニカのあいぼう",
+    "first": "ら",
+    "last": "う"
+  },
+  {
+    "id": 753,
+    "img": "750.png",
+    "wordType": "normal",
+    "word": "はためいわくなけだま",
+    "first": "は",
+    "last": "ま"
   }
 ]
