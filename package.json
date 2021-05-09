@@ -43,7 +43,9 @@
     ]
   },
   "devDependencies": {
+    "@types/react-select": "^4.0.15",
     "@types/react-virtualized": "^9.21.11",
-    "material-ui": "^0.20.2"
+    "material-ui": "^0.20.2",
+    "react-select": "^4.3.0"
   }
 }

@@ -3,16 +3,20 @@ import React from 'react';
 type Props = {
     srcUrl: string
     word: string
+    wordId: string
 }
 const Word = (props:Props) => {
     return (
-        <Card style={{ width: 90,height:190, marginLeft: '1rem', marginRight: '1rem', marginBottom: '1rem' }}>
+        <Card style={{ width: 90,height:190, marginRight: 10, marginBottom: '1rem' }}>
             <CardActionArea>
                 <CardMedia
                 component='img'
                 src={props.srcUrl}
                 />
                 <CardContent>
+                    <Typography align='center' style={{fontSize: '1em'}}>
+                        No:{props.wordId}
+                    </Typography>
                     <Typography align='center' style={{fontSize: '1em'}}>
                         {props.word}
                     </Typography>

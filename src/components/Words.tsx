@@ -1,12 +1,13 @@
 import { Card, CardActionArea, CardContent, CardMedia, Typography } from '@material-ui/core';
-import React from 'react';
+import React, { useState } from 'react';
 import WordsData from '../words.json';
 import Word from './Word';
 import { List, WindowScroller, AutoSizer, Grid } from "react-virtualized";
 
 type Props={
-    searchWord: string
+    searchWords: string[][]
     searchType: string
+    searchIdx: number
 }
 const Words = React.memo((props: Props) => {
     // const rowRenderer = (idx: number) => {
@@ -15,17 +16,21 @@ const Words = React.memo((props: Props) => {
     //     return(
     //         <Word srcUrl={srcUrl} word={word.word} />)
     // }
+    console.log(props.searchWords)
+    console.log(props.searchWords.length)
+    const idx = props.searchType === 'route' ? Math.min(props.searchIdx, props.searchWords.length) - 1 : 0;
+    console.log('val',idx)
     const displayWords = WordsData.filter(data => {
-        const wordType = props.searchType === 'route' ? data.first : (props.searchType === 'first' ? data.first : data.last)
-        if (props.searchWord === '' || props.searchWord === wordType) return true;
+        // console.log(props.searchWords.length)
+        const searchWord = props.searchType === 'route' ? data.first : (props.searchType === 'first' ? data.first : data.last)
+        if (props.searchWords[idx].length === 0 || props.searchWords[idx].some(v => v === searchWord)) return true;
         else return false;
     })
     return (
         <div style={{ display: 'flex', flexFlow: 'row wrap', justifyContent:'center'}}>
             {/* <AutoSizer>
-                {({ height, width }=>( */}
-
-            {/* <List
+                {({ height, width }=>(
+                <List
                 autoHeight
                 rowRenderer={({ index }) => {
                     const items = [];
@@ -49,15 +54,16 @@ const Words = React.memo((props: Props) => {
                 rowCount={1}
                 rowHeight={190}
                 width={props.width}
-            /> */}
-               {/* ))}
+            />
+                ))}
             </AutoSizer> */}
 
             {displayWords.map((word, index) => {
                 const srcUrl = '/imgs/' + word.img;
                 const wordColor = word.wordType;
+                const wordId = word.id.toString().padStart(3,'0')
                 return (
-                    <Word srcUrl={srcUrl} word={word.word}/>
+                    <Word srcUrl={srcUrl} word={word.word} wordId={wordId}/>
                 )
             })}
       </div>
