@@ -1,4 +1,3 @@
-import { Card, CardActionArea, CardContent, CardMedia, Typography } from '@material-ui/core';
 import React, { useState } from 'react';
 import WordsData from '../words.json';
 import Word from './Word';
