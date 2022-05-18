@@ -19,12 +19,6 @@ const Words = React.memo((props: Props) => {
     console.log(props.searchWords.length)
     const idx = props.searchType === 'route' ? Math.min(props.searchIdx, props.searchWords.length) - 1 : 0;
     console.log('val',idx)
-    const displayWords = WordsData.filter(data => {
-        // console.log(props.searchWords.length)
-        const searchWord = props.searchType === 'route' ? data.first : (props.searchType === 'first' ? data.first : data.last)
-        if (props.searchWords[idx].length === 0 || props.searchWords[idx].some(v => v === searchWord)) return true;
-        else return false;
-    })
     return (
         <div style={{ display: 'flex', flexFlow: 'row wrap', justifyContent:'center'}}>
             {/* <AutoSizer>
