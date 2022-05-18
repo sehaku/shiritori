@@ -21,16 +21,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 const MAX_WORD_CHARACTERS = 63;
-type OptionType = {
-  value: number;
-  label: number;
-};
-const options: OptionType[] = [
-  { value: 1, label: 1 },
-  { value: 2, label: 2 },
-  { value: 3, label: 3 },
-  { value: 4, label: 4 },
-];
+
 const App = () => {
   const classes = useStyles();
   const [typeValue, setTypeValue] = useState("first");
@@ -38,9 +29,6 @@ const App = () => {
   const [displayType, setDisplayType] = useState("none");
   const [searchIdx, setSearchIdx] = useState(1);
   const [dummy, setDummy] = useState([[""]]);
-  const [selectedOption, setSelectedOption] = useState<OptionType | null>(
-    options[0]
-  );
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setTypeValue(event.target.value);
     if (event.target.value === "route") {
@@ -108,7 +96,7 @@ const App = () => {
   // const handleOnChange = (option: OptionType) => {
   //   setSelectedOption(option);
   // }
-  console.log(selectedOption?.value);
+  // console.log(selectedOption?.value);
   return (
     <>
       <WindowScroller>
