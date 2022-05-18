@@ -1,13 +1,15 @@
 import { Card, CardActionArea, CardContent, CardMedia, Typography } from '@material-ui/core';
 import React from 'react';
 type Props = {
+    isDisplay: boolean
+    id: string
     srcUrl: string
     word: string
     wordId: string
 }
 const Word = (props:Props) => {
     return (
-        <Card style={{ width: 90,height:190, marginRight: 10, marginBottom: '1rem' }}>
+        <Card id={props.id} style={{ width: 90,height:190, marginRight: 10, marginBottom: '1rem', display: props.isDisplay ? "block" : "none" }}>
             <CardActionArea>
                 <CardMedia
                 component='img'

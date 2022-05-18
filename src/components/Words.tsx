@@ -57,12 +57,15 @@ const Words = React.memo((props: Props) => {
                 ))}
             </AutoSizer> */}
 
-            {displayWords.map((word, index) => {
+            {WordsData.map((word) => {
+                const searchWord = props.searchType === 'route' ? word.first : (props.searchType === 'first' ? word.first : word.last)
+                const isDisplay =  (props.searchWords[idx].length === 0 || props.searchWords[idx].some(v => v === searchWord))
+                const id = word.id.toString()
                 const srcUrl = '/imgs/' + word.img;
                 const wordColor = word.wordType;
                 const wordId = word.id.toString().padStart(3,'0')
                 return (
-                    <Word srcUrl={srcUrl} word={word.word} wordId={wordId}/>
+                    <Word isDisplay={isDisplay} id={id} srcUrl={srcUrl} word={word.word} wordId={wordId}/>
                 )
             })}
       </div>
